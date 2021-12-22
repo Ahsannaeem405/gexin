@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="SignIn_Web" transform="translate(-170.000000, -346.000000)">
+            <g id="Group" transform="translate(170.000000, 346.000000)">
+                <path d="M0.5,1.99729162 L0.5,38.0027084 C0.5,38.8312891 1.16933084,39.5 1.99729162,39.5 L38.0027084,39.5 C38.8312891,39.5 39.5,38.8306692 39.5,38.0027084 L39.5,1.99729162 C39.5,1.16871091 38.8306692,0.5 38.0027084,0.5 L1.99729162,0.5 C1.16871091,0.5 0.5,1.16933084 0.5,1.99729162 Z" id="Rectangle-5" stroke="#32274D" fill="#5738A1"></path>
+                <g id="Unknown" transform="translate(9.000000, 6.000000)" fill="#FFFFFF">
+                    <g id="twitch">
+                        <polygon id="Rectangle" fill="#FFFFFF" transform="translate(-0.8, 1.7) scale(1.15)" points="5 2 17.9984131 2.03503418 17.9984131 10.0350342 14.3352865 14 11.6700846 14 9 16.9962759 8.99495443 14 5 14"></polygon>
+                        <path d="M20,5.5067062e-14 L20,11.9994448 L13,18.9975586 L9,18.9975586 L5,23 L5,18.9975586 L0,18.9975586 L0,3.99845872 L3.99625651,5.5067062e-14 L20,5.5067062e-14 Z M5,2 L5,14 L8.99495443,14 L9,16.9962759 L11.6700846,14 L14.3352865,14 L17.9984131,10.0350342 L17.9984131,2.03503418 L5,2 Z M12,3.99959793 L12,9 L10,9 L10,3.99959793 L12,3.99959793 Z M14,3.99845872 L16,3.99959793 L16,9 L14,9 L14,3.99845872 Z" id="Combined-Shape" fill="#000000" transform="translate(-0.8, 1.7) scale(1.15)"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

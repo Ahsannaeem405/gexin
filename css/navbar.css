@@ -1,0 +1,61 @@
+@media screen and (max-width: 991px) {
+    .navbar-collapse .dropdown-menu{
+         
+      width: 100%;
+            border-bottom:none!important;
+    }
+    .gm-header{
+        
+        padding-top: 10px !important;
+        padding-bottom: 10px !important;
+        font-weight: 400 !important;
+    line-height: 1.5 !important;
+ 
+    }
+   
+    .navbar-nav{
+        padding-left: 0 !important;
+    }
+  
+
+    .navbar .collapse .navbar-nav .nav-item .nav-link {
+    
+}
+    #navbarSupportedContent{
+        height: calc(100vh - 50px) !important;
+        overflow-y: auto !important;
+        position: absolute !important;
+    top: 56px !important;
+    width: 100%  ;
+    background: black !important;
+    left: 0px !important;
+    z-index: 2 !important;
+    }
+    #navbarNav{
+        margin-bottom: 20px !important;
+    }
+    .browse{
+    background-color: #fff !important;
+    color: black !important;
+}
+.browse-text-1{
+    font-size: 15px !important;
+    color: #5A5A5A !important;
+}
+.active{
+    color: #fff !important;
+}
+.new-head{
+    color: white!important;
+    border-bottom: 1px solid  #5A5A5A ;
+}
+}
+
+@media screen and (min-width: 0px) and (max-width: 767px)
+{
+
+    .helpDropBox .dropdown-menu {
+ 
+    border-bottom:none!important
+    }   
+}

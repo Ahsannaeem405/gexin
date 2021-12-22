@@ -1,0 +1,62 @@
+@font-face {
+    font-family: 'Clio Black';
+    src: url('ClioBlack-Black.woff2') format('woff2'),
+        url('ClioBlack-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Clio Bold';
+    src: url('ClioBold-Bold.woff2') format('woff2'),
+        url('ClioBold-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Clio Light';
+    src: url('ClioLight-Light.woff2') format('woff2'),
+        url('ClioLight-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Clio Medium';
+    src: url('ClioMedium-Medium.woff2') format('woff2'),
+        url('ClioMedium-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Clio';
+    src: url('ClioRegular.woff2') format('woff2'),
+        url('ClioRegular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Clio Semi Boldit';
+    src: url('ClioSemiBoldit-SemiBold.woff2') format('woff2'),
+        url('ClioSemiBoldit-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Clio Semi';
+    src: url('ClioSemiBold-SemiBold.woff2') format('woff2'),
+        url('ClioSemiBold-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}

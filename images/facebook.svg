@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 8</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="SignIn_Web" transform="translate(-98.000000, -346.000000)">
+            <g id="Group-8" transform="translate(98.000000, 346.000000)">
+                <rect id="Rectangle-5" stroke="#2F477A" fill="#3B5998" x="0.5" y="0.5" width="39" height="39" rx="2"></rect>
+                <path d="M21,39 L21,24 L16,24 L16,18 L20.9062174,18 L20.9062174,14.5102282 C20.9062174,9.64775639 23.6622391,7 28,7 C30.0778992,7 32.0796436,7.20102431 32.6,7.2701416 L32.6,12 L29.5893563,12.0086127 C27.8200684,12.0086127 26.9957275,13.4277668 26.9957275,15.0727583 L26.9957275,18 L32.3997604,18 L31.6672554,24 L26.9957275,24 L26.9957275,39 L21,39 Z" id="Fill-1" fill="#FEFEFE"></path>
+            </g>
+        </g>
+    </g>
+</svg>
