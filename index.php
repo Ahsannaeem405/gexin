@@ -608,20 +608,23 @@
           <h1 class="text">توب يالايدي</h1>
 
         </div>
-        <div class="col-lg-2 col-md-6 col-12 mt-3 text-center">
-          <div class="card_div">
-            <div class="card card2">
-              <div class="card-body">
-                <img src="images/game2.png" class="card-img-top" alt="...">
-
-
-              </div>
-
-            </div>
-          </div> <br>
-          <h3 class="text-light">ROBLOX</h3>
+        <div class="col-lg-2 col-md-6 col-12 p-3 text-center product">
+          <div class="div_images2">
+          <img src="images/game2.png" class="img_card h-100" alt="">
+          </div>
+        
+          <h3 class="mt-5 text-light">ROBLOX</h3>
         </div>
-        <div class="col-lg-2 col-md-6 col-12 mt-3 text-center">
+
+        <div class="col-lg-2 col-md-6 col-12 p-3 text-center product">
+          <div class="div_images2">
+          <img src="images/game5.jpg" class="img_card h-100" alt="">
+          </div>
+        
+          <h3 class="mt-5 text-light">CITIES SKYLINES</h3>
+        </div>
+
+        <!-- <div class="col-lg-2 col-md-6 col-12 mt-3 text-center">
           <div class="card_div">
             <div class="card card2">
               <div class="card-body">
@@ -633,20 +636,19 @@
             </div>
           </div> <br>
           <h3 class="text-light">CITIES SKYLINES</h3>
+        </div> -->
+
+
+        <div class="col-lg-2 col-md-6 col-12 p-3 text-center product">
+          <div class="div_images2">
+          <img src="images/game6.jpg" class="img_card h-100" alt="">
+          </div>
+        
+          <h3 class="mt-5 text-light">CHIEF ALMIGHTY</h3>
         </div>
-        <div class="col-lg-2 col-md-6 col-12 mt-3 text-center">
-          <div class="card_div">
-            <div class="card card2">
-              <div class="card-body">
-                <img src="images/game6.jpg" class="card-img-top" alt="...">
 
 
-              </div>
-
-            </div>
-          </div> <br>
-          <h3 class="text-light">CHIEF ALMIGHTY</h3>
-        </div>
+      
 
 
       </div>
@@ -835,7 +837,7 @@
     </div>
   </section>
 
-
+  <?php include('includes/footer.php') ?>
 
   <!-- Optional JavaScript -->
   <!-- jQuery first, then Popper.js, then Bootstrap JS -->
