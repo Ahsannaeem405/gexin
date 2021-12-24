@@ -663,7 +663,51 @@
           <h1 class="text">Game Recharge</h1>
 
         </div>
-        <div class="col-lg-4 col-md-6 col-12 mt-4">
+        <div class="col-lg-2 col-md-6 col-12 p-3 text-center product" >
+          <div class="div_images">
+          <img src="images/freefire.jpg" class="img_card h-100" alt="">
+          </div>
+        
+          <h3 class="mt-3 text-light">FreeFire</h3>
+        </div>
+
+        <div class="col-lg-2 col-md-6 col-12 p-3 text-center product">
+          <div class="div_images">
+          <img src="images/freefire.jpg" class="img_card h-100" alt="">
+          </div>
+        
+          <h3 class="mt-3 text-light">FreeFire</h3>
+        </div>
+
+        <div class="col-lg-2 col-md-6 col-12 p-3 text-center product">
+          <div class="div_images">
+          <img src="images/freefire.jpg" class="img_card h-100" alt="">
+          </div>
+        
+          <h3 class="mt-3 text-light">FreeFire</h3>
+        </div>
+        <div class="col-lg-2 col-md-6 col-12 p-3 text-center product">
+          <div class="div_images">
+          <img src="images/freefire.jpg" class="img_card h-100" alt="">
+          </div>
+        
+          <h3 class="mt-3 text-light">FreeFire</h3>
+        </div>
+        <div class="col-lg-2 col-md-6 col-12 p-3 text-center product">
+          <div class="div_images">
+          <img src="images/freefire.jpg" class="img_card h-100" alt="">
+          </div>
+        
+          <h3 class="mt-3 text-light">FreeFire</h3>
+        </div>
+        <div class="col-lg-2 col-md-6 col-12 p-3 text-center product">
+          <div class="div_images">
+          <img src="images/freefire.jpg" class="img_card h-100" alt="">
+          </div>
+        
+          <h3 class="mt-3 text-light">FreeFire</h3>
+        </div>
+        <!-- <div class="col-lg-4 col-md-6 col-12 mt-4">
           <div class="card_div">
             <div class="card card2">
               <div class="card-body">
@@ -677,7 +721,7 @@
             </div>
           </div>
 
-        </div>
+        </div> -->
 
 
 
@@ -809,6 +853,18 @@
       duration: 750,
       interval: 1500
     });
+
+
+$(".product").mouseover(function () {
+  $(this).find('div').find('img').addClass("hover");
+
+
+});
+$(".product").mouseout(function () {
+
+  $(this).find('div').find('img').removeClass("hover");
+
+});
   </script>
 </body>
 
