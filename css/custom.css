@@ -2,24 +2,32 @@
     box-shadow: 0 11px 11px 0 rgba(0, 0, 0,.16);
     transform: translateY(-5px);
   }
-  .card_div{
-      /* padding: 5px; */
-  }
+
   .card2{
-      background-color: lightgray;
-      min-height: 400px;
+            background-color: #191919 !important;
+
+      /* max-height: 400px; */
+  }
+  .img_div{
+    width: 100%;
   }
   .card_div:hover{
     background: linear-gradient(to top right, #ffff00 15%, #008000 65%);
-    transform: translateY(-7.5px);
+    transform: translateY(-10.5px);
+    transition: linear 0.3s !important;
+
 
   }
   .card2:hover{
     background: linear-gradient(to top right, #ffff00 15%, #008000 65%);
 
+
+    
+
   }
   .card2 .card-body img{
-      width: 80%;
+      width: 100%;
+      max-height: 350px;
   }
   .footer {
       margin:2px 0px 0px 0px;
@@ -55,7 +63,7 @@
     font-weight: bolder !important;
 }
 .games{
-    background-color: #191919;
+    background-color: 	#282828;
 }
 .btn-name{
     color: white;
@@ -79,7 +87,24 @@ color: white;
 background: linear-gradient(to top right, #ffff00 15%, #008000 65%);
     transform: translateY(-7.5px);
 }
-
+.section1{
+  background: 	#202020;
+}
+.section2{
+  background: #404040;
+}
+.section4{
+  background: 	#181818;
+}
+.section5{
+  background: 	#484848;
+}
+.section6{
+background: 	#585858;
+}
+.section7{
+background: #282828;
+}
 
 
 
