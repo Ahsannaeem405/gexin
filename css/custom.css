@@ -6,6 +6,9 @@
   width: 100%;
   border-radius: 10px;
 }
+body{
+  font-family: Arial, Helvetica, sans-serif !important;
+}
 .playstore{
   background-image: url("../images/playstore.webp");
   background-size:cover ;
@@ -21,21 +24,24 @@
 .card_custom{
   border-radius: 10px;
   color: white;
+  min-height: 110px;
 }
 .card-back{
   border-radius: 10px !important;
 }
-del{
+.price{
   color: red;
   font-weight: bold;
+
 }
+
 .discount{
   float: right !important;
   background: #639;
   color: white;
   font-weight: 700;
-  padding: 0 0.5em;
-  border-radius: 10px;
+  padding: 0 0.5rem;
+  border-radius: 0.5rem;
 
 }
   .card2{
