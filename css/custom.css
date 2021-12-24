@@ -2,7 +2,42 @@
     box-shadow: 0 11px 11px 0 rgba(0, 0, 0,.16);
     transform: translateY(-5px);
   }
+.img_card{
+  width: 100%;
+  border-radius: 10px;
+}
+.playstore{
+  background-image: url("../images/playstore.webp");
+  background-size:cover ;
+}
+.playstation{
+  background-image: url("../images/playstationback.webp");
+  background-size:cover ;
+}
+.warrior{
+  background-image: url("../images/warrior.webp");
+  background-size:cover ;
+}
+.card_custom{
+  border-radius: 10px;
+  color: white;
+}
+.card-back{
+  border-radius: 10px !important;
+}
+del{
+  color: red;
+  font-weight: bold;
+}
+.discount{
+  float: right !important;
+  background: #639;
+  color: white;
+  font-weight: 700;
+  padding: 0 0.5em;
+  border-radius: 10px;
 
+}
   .card2{
             background-color: #191919 !important;
 
@@ -44,7 +79,7 @@
   }
   .card-body{
       text-align: center;
-      padding: 0.5rem 0.5rem !important;
+      padding: 0.1rem 0.1rem !important;
       border-radius: 5px;
   }
   .card-body img{

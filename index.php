@@ -51,6 +51,7 @@
       </a>
     </div>
   </section>
+
   <section class="section1">
     <div class="container pt-5 pb-5">
       <div class="row pt-5">
@@ -230,51 +231,124 @@
 
         </div>
         <div class="col-lg-4 col-md-6 col-12 mt-4">
-          <div class="card_div">
-            <div class="card card2">
-              <div class="card-body">
-                <img src="images/googleplay.png" class="card-img-top" alt="...">
 
+          <div class="row bg-white card-back p-0">
+            <div class="col-12 p-0">
+              <div class="playstore p-3 card_custom">
+                <div class="row p-0">
+                  <div class="col-3">
+                    <img class="img_card" src="images/playstore_image.webp" alt="">
+                  </div>
+                  <div class="col-9 pt-2  text-center">
+                    <h3>Google Play Gift Card (KR)</h3>
+                    <h5>Google Play Gift Card 200,000 WON KR</h5>
+                  </div>
+                </div>
 
               </div>
-              <footer class="footer">
-                <center>apple card</center>
-              </footer>
             </div>
+            <div class="col-12 pt-3">
+              <div class="row pb-3">
+                <div class="col-3">
+                  <h3><del>$25</del></h3>
+                </div>
+                <div class="col-3">
+                  <h3>$20</h3>
+
+                </div>
+                <div class="col-6">
+                  <span class="discount">-3.0%</span>
+
+                </div>
+              </div>
+
+
+            </div>
+
           </div>
+
 
         </div>
 
         <div class="col-lg-4 col-md-6 col-12 mt-4">
-          <div class="card_div">
-            <div class="card card2">
-              <div class="card-body">
-                <img src="images/googleplay.png" class="card-img-top" alt="...">
+
+          <div class="row bg-white card-back p-0">
+            <div class="col-12 p-0">
+              <div class="playstation p-3 card_custom">
+                <div class="row p-0">
+                  <div class="col-3">
+                    <img class="img_card" src="images/playstationpic.webp" alt="">
+                  </div>
+                  <div class="col-9 pt-2  text-center">
+                    <h3>PlayStation Network Card (TW)</h3>
+                    <h5>PS Plus 3 Months Membership TW</h5>
+                  </div>
+                </div>
 
               </div>
-              <footer class="footer">
-                <center>apple card</center>
-              </footer>
             </div>
+            <div class="col-12 pt-3">
+              <div class="row pb-3">
+                <div class="col-3">
+                  <h3><del>$25</del></h3>
+                </div>
+                <div class="col-3">
+                  <h3>$20</h3>
+
+                </div>
+                <div class="col-6">
+                  <span class="discount">-3.0%</span>
+
+                </div>
+              </div>
+
+
+            </div>
+
           </div>
+
 
         </div>
 
         <div class="col-lg-4 col-md-6 col-12 mt-4">
-          <div class="card_div">
-            <div class="card card2">
-              <div class="card-body">
-                <img src="images/nin.png" class="card-img-top" alt="...">
+
+          <div class="row bg-white card-back p-0">
+            <div class="col-12 p-0">
+              <div class="warrior p-3 card_custom">
+                <div class="row p-0">
+                  <div class="col-3">
+                    <img class="img_card" src="images/1156.webp" alt="">
+                  </div>
+                  <div class="col-9 pt-2  text-center">
+                    <h3>Conquerors: Golden Age (Global)</h3>
+                    <h5>Conquerors: Golden Age 2000 Dinar</h5>
+                  </div>
+                </div>
 
               </div>
-              <footer class="footer">
-                <center>Pubg Card</center>
-              </footer>
             </div>
+            <div class="col-12 pt-3">
+              <div class="row pb-3">
+                <div class="col-3">
+                  <h3><del>$25</del></h3>
+                </div>
+                <div class="col-3">
+                  <h3>$20</h3>
+
+                </div>
+                <div class="col-6">
+                  <span class="discount">-3.0%</span>
+
+                </div>
+              </div>
+
+
+            </div>
+
           </div>
 
-        </div>
 
+        </div>
 
 
 
@@ -296,7 +370,7 @@
           <h1 class="text">توب يالايدي</h1>
 
         </div>
-        <div class="col-lg-2 col-md-6 col-12 mt-3">
+        <div class="col-lg-2 col-md-6 col-12 mt-3 text-center">
           <div class="card_div">
             <div class="card card2">
               <div class="card-body">
@@ -306,9 +380,10 @@
               </div>
 
             </div>
-          </div>
+          </div> <br>
+          <h3 class="text-light">ROBLOX</h3>
         </div>
-        <div class="col-lg-2 col-md-6 col-12 mt-3">
+        <div class="col-lg-2 col-md-6 col-12 mt-3 text-center">
           <div class="card_div">
             <div class="card card2">
               <div class="card-body">
@@ -318,9 +393,10 @@
               </div>
 
             </div>
-          </div>
+          </div> <br>
+          <h3 class="text-light">CITIES SKYLINES</h3>
         </div>
-        <div class="col-lg-2 col-md-6 col-12 mt-3">
+        <div class="col-lg-2 col-md-6 col-12 mt-3 text-center">
           <div class="card_div">
             <div class="card card2">
               <div class="card-body">
@@ -330,7 +406,8 @@
               </div>
 
             </div>
-          </div>
+          </div> <br>
+          <h3 class="text-light">CHIEF ALMIGHTY</h3>
         </div>
 
 
@@ -457,7 +534,7 @@
                 <h3 class="">FreeFire</h3>
 
               </div>
-            
+
             </div>
           </div>
 
