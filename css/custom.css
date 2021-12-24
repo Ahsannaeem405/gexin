@@ -57,6 +57,7 @@ body{
 }
   .card2{
             background-color: #191919 !important;
+            border-radius: 10px;
 
       /* max-height: 400px; */
   }
@@ -67,12 +68,12 @@ body{
     background: linear-gradient(to top right, #ffff00 15%, #008000 65%);
     transform: translateY(-10.5px);
     transition: linear 0.3s !important;
-    border-radius: 5px;
+    border-radius: 10px;
 
   }
   .card2:hover{
     background: linear-gradient(to top right, #ffff00 15%, #008000 65%);
-    border-radius: 5px;
+    border-radius: 10px;
 
 
     
@@ -80,12 +81,14 @@ body{
   }
   .card2 .card-body img{
       width: 100%;
-      max-height: 350px;
+      max-height: 300px;
+      border-radius: 10px;
   }
   .footer {
       margin:2px 0px 0px 0px;
      background: rgba(0, 0, 0, 0.8);
      color: white;
+     border-radius: 10px;
   }
  
   .card1{
@@ -118,7 +121,7 @@ body{
     font-weight: bolder !important;
 }
 .games{
-    background-color: 	#282828;
+    background-color: 	#2196F3;
 }
 .btn-name{
     color: white;
@@ -143,7 +146,10 @@ background: linear-gradient(to top right, #ffff00 15%, #008000 65%);
     transform: translateY(-7.5px);
 }
 .section1{
-  background: 	#202020;
+  background: 	#C63C3C;
+}
+.games1{
+  background:#A85CB6 !important;
 }
 .section2{
   background: #404040;
@@ -155,7 +161,7 @@ background: linear-gradient(to top right, #ffff00 15%, #008000 65%);
   background: 	#484848;
 }
 .section6{
-background: 	#585858;
+background: 	#DD9425;
 }
 .section7{
 background: #282828;

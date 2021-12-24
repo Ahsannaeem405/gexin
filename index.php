@@ -148,7 +148,7 @@
     </div>
   </section>
 
-  <section class="games pt-5 pb-5">
+  <section class="games games1 pt-5 pb-5">
     <div class="container">
       <div class="row pt-5">
         <div class="col-6 p-3">
@@ -646,8 +646,28 @@
         
           <h3 class="mt-5 text-light">CHIEF ALMIGHTY</h3>
         </div>
+        <div class="col-lg-2 col-md-6 col-12 p-3 text-center product">
+          <div class="div_images2">
+          <img src="images/game2.png" class="img_card h-100" alt="">
+          </div>
+        
+          <h3 class="mt-5 text-light">ROBLOX</h3>
+        </div>
 
-
+        <div class="col-lg-2 col-md-6 col-12 p-3 text-center product">
+          <div class="div_images2">
+          <img src="images/game5.jpg" class="img_card h-100" alt="">
+          </div>
+        
+          <h3 class="mt-5 text-light">CITIES SKYLINES</h3>
+        </div>
+        <div class="col-lg-2 col-md-6 col-12 p-3 text-center product">
+          <div class="div_images2">
+          <img src="images/game6.jpg" class="img_card h-100" alt="">
+          </div>
+        
+          <h3 class="mt-5 text-light">CHIEF ALMIGHTY</h3>
+        </div>
       
 
 
@@ -767,7 +787,24 @@
           </div>
 
         </div>
+        <div class="col-lg-4 col-md-6 col-12 mt-4">
+          <div class="card_div">
+            <div class="card card2">
+              <div class="card-body">
+                <img src="images/laptop.jpg" class="card-img-top" alt="...">
 
+
+              </div>
+              <footer class="footer">
+                <center>
+                  سماعة بلوتوث
+                  <p>25.00</p>
+                </center>
+              </footer>
+            </div>
+          </div>
+
+        </div>
         <div class="col-lg-4 col-md-6 col-12 mt-4">
           <div class="card_div">
             <div class="card card2">
@@ -810,18 +847,49 @@
           <h1 class="text">Game Recharge</h1>
 
         </div>
-        <div class="col-lg-4 col-md-6 col-12 mt-4 ">
-          <div class="card_div">
-            <div class="card card2 ">
-              <div class="card-body p-0">
-                <img src="images/freefire.jpg" class="card-img-top" alt="...">
-                <h3 class="">FreeFire</h3>
-
-              </div>
-
-            </div>
+        <div class="col-lg-2 col-md-6 col-12 p-3 text-center product" >
+          <div class="div_images">
+          <img src="images/freefire.jpg" class="img_card h-100" alt="">
           </div>
+        
+          <h3 class="mt-3 text-light">FreeFire</h3>
+        </div>
 
+        <div class="col-lg-2 col-md-6 col-12 p-3 text-center product">
+          <div class="div_images">
+          <img src="images/freefire.jpg" class="img_card h-100" alt="">
+          </div>
+        
+          <h3 class="mt-3 text-light">FreeFire</h3>
+        </div>
+
+        <div class="col-lg-2 col-md-6 col-12 p-3 text-center product">
+          <div class="div_images">
+          <img src="images/freefire.jpg" class="img_card h-100" alt="">
+          </div>
+        
+          <h3 class="mt-3 text-light">FreeFire</h3>
+        </div>
+        <div class="col-lg-2 col-md-6 col-12 p-3 text-center product">
+          <div class="div_images">
+          <img src="images/freefire.jpg" class="img_card h-100" alt="">
+          </div>
+        
+          <h3 class="mt-3 text-light">FreeFire</h3>
+        </div>
+        <div class="col-lg-2 col-md-6 col-12 p-3 text-center product">
+          <div class="div_images">
+          <img src="images/freefire.jpg" class="img_card h-100" alt="">
+          </div>
+        
+          <h3 class="mt-3 text-light">FreeFire</h3>
+        </div>
+        <div class="col-lg-2 col-md-6 col-12 p-3 text-center product">
+          <div class="div_images">
+          <img src="images/freefire.jpg" class="img_card h-100" alt="">
+          </div>
+        
+          <h3 class="mt-3 text-light">FreeFire</h3>
         </div>
 
 
