@@ -156,7 +156,7 @@ body{
     font-weight: bolder !important;
 }
 .games{
-    background-color: 	#2196F3;
+    background-color: 	#3e3f41;
 }
 .btn-name{
     color: white;
@@ -182,10 +182,10 @@ background: linear-gradient(to top right, #ffff00 15%, #008000 65%);
     transform: translateY(-7.5px);
 }
 .section1{
-  background: 	#C63C3C;
+  background: 	#181818;
 }
 .games1{
-  background:#A85CB6 !important;
+  background:	#303030 !important;
 }
 .section2{
   background: #404040;
@@ -197,7 +197,7 @@ background: linear-gradient(to top right, #ffff00 15%, #008000 65%);
   background: 	#484848;
 }
 .section6{
-background: 	#DD9425;
+background: 		#202020;
 }
 .section7{
 background: #282828;
