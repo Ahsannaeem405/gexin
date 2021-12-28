@@ -18,8 +18,13 @@
 
 <body>
   <?php include('includes/header.php') ?>
-  <section>
-    <div id="myCarousel" class="carousel slide" data-ride="carousel">
+
+
+
+  </style>
+
+<section class="section0">
+<div id="myCarousel" class="carousel slide" data-ride="carousel">
       <!-- Indicators -->
       <ol class="carousel-indicators">
         <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
@@ -50,11 +55,15 @@
         <span class="sr-only">Next</span>
       </a>
     </div>
-  </section>
+</section>
+  <section class="section">
+ 
+</section>
+
 
 
   <section class="section1_full">
-    <div class="container pt-5 pb-5">
+    <div class="container pb-5">
       <div class="row pt-5">
         <div class="col-lg-4 col-md-6 col-12 mt-4">
 
@@ -210,7 +219,7 @@
   </section>
 
   <section class="section1">
-    <div class="container pt-5 pb-5">
+    <div class="container pb-5">
       <div class="row pt-5">
         <div class="col-4 mt-4">
           <div class="card card1">
@@ -283,18 +292,29 @@
     <div class="container pt-5 pb-5">
       <h1 class="text">الأفضل مبيعاً</h1><br>
       <div class="row w-100 pt-5">
+        
         <div class="col-lg-6 col-md-6 col-12 ">
+        <div class="row">
+                <div class="col-lg-6  animation1">
+
+                </div>
           <div class="row">
-            <div class="col-lg-12 p-2 div_hover">
+            <div class="col-lg-12 p-2 div_hover1">
               <img src="images/itune.jpg" class="image" alt="">
+            
+              </div>
             </div>
           </div>
 
 
         </div>
         <div class="col-lg-6 col-md-6 col-12 ">
+        <div class="row">
+                <div class="col-lg-6  animation2">
+
+                </div>
           <div class="row">
-            <div class="col-lg-12 p-2 div_hover">
+            <div class="col-lg-12 p-2 div_hover2">
               <img src="images/playstation.jpg" class="image" alt="">
             </div>
           </div>
@@ -1164,6 +1184,39 @@
       </div>
     </div>
   </section>
+  <section class="section8">
+    <div class="container pt-5 pb-5">
+      <h1 class="news">NEWS & PROMOTION</h1>
+      <div class="row pt-4">
+        <div class="col-lg-4 col-md-6 col-12   new_letter">
+         
+          <div class="row">
+            <div class="col-12 p-0">
+              <img src="images/redeem.webp" class="img-fluid" alt="">
+            </div>
+            <div class="col-12 p-4 bg-white div_news">
+              <h3>Redeem Your Free RM200 Gladax Voucher!</h3><br>
+              <p>SEAGM is collaborating with Gladax! Find out how to redeem your free voucher worth RM200! Offer is live from November 1 to December 31, 2021. </p>
+            </div>
+          </div>
+
+        </div>
+        <div class="col-lg-4 col-md-6 col-12    new_letter">
+          <div class="row">
+            <div class="col-12 p-0">
+              <img src="images/battle.webp" class="img-fluid" alt="">
+            </div>
+            <div class="col-12 p-4 bg-white div_news">
+              <h3>Marvel Super War Battle Pass 17: Undisputed Champion Colossus</h3><br>
+              <p>Check out the NEW Battle Pass 17 for Marvel Super War. Featuring Undisputed Champion Colossus and a classic boxing theme, this battle pass is sure to rock your socks off. </p>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+  </section>
 
   <?php include('includes/footer.php') ?>
 
@@ -1202,7 +1255,41 @@ interval: 1500,
       $(this).find('div').find('img').removeClass("hover");
 
     });
+
+    $(".div_hover1").mouseover(function() {
+    
+      $( ".animation1" ).fadeOut("slow");
+
+
+    });
+    $(".div_hover1").mouseout(function() {
+
+      $( ".animation1" ).fadeIn("slow");
+
+    });
+
+
+    $(".div_hover2").mouseover(function() {
+    
+    $( ".animation2" ).fadeOut("slow");
+
+
+  });
+  $(".div_hover2").mouseout(function() {
+
+    $( ".animation2" ).fadeIn("slow");
+
+  });
+
+  
+   
   </script>
+
+
+
+
+
+
 </body>
 
 </html>

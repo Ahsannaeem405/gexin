@@ -11,6 +11,12 @@
 .full{
   display: none;
 }
+/* .section0{
+  display: block;
+}
+.section{
+  display: none;
+} */
 }
 @media (min-width: 426px) {
   .section1_full{
@@ -25,6 +31,12 @@
   .full{
     display: block;
   }
+  /* .section0{
+    display: none;
+  }
+  .section{
+    display: block;
+  } */
   }
 .card1:hover {
     box-shadow: 0 11px 11px 0 rgba(0, 0, 0,.16);
@@ -60,6 +72,38 @@ body{
   /* background-image: url("../images/869.webp"); */
   background-color: black;
   background-size:cover ;
+}
+.new_letter{
+  border-radius: 10px;
+}
+.new_letter img{
+  border-top-left-radius:10px;
+  border-top-right-radius:10px;
+
+}
+.animation1{
+  min-height: 50px;
+  position: absolute;
+  left: 12px;
+  top: -4px;
+  background: linear-gradient(to top right, #ffff00 15%, #008000 65%);
+}
+.animation2{
+  min-height: 50px;
+  position: absolute;
+  right: 12px;
+  bottom: -4px;
+  background: linear-gradient(to top right, #ffff00 15%, #008000 65%);
+}
+
+.div_news{
+  border-bottom-right-radius:10px;
+  border-bottom-left-radius:10px;
+
+
+}
+.news{
+  color: white;
 }
 .warrior{
   background-image: url("../images/warrior.webp");
@@ -174,12 +218,23 @@ background: rgba(0, 0, 0, 0.8);
 color: white;
 
 }
-.div_hover:hover
+.div_hover1:hover
 {
     /* background: linear-gradient(
 45deg, var(green) 15%, var(yellow) 65%); */
 background: linear-gradient(to top right, #ffff00 15%, #008000 65%);
     transform: translateY(-7.5px);
+  transition: all 0.3s;
+
+}
+.div_hover2:hover
+{
+    /* background: linear-gradient(
+45deg, var(green) 15%, var(yellow) 65%); */
+background: linear-gradient(to top right, #ffff00 15%, #008000 65%);
+    transform: translateY(-7.5px);
+  transition: all 0.3s;
+
 }
 .section1{
   background: 	#181818;
@@ -592,5 +647,11 @@ background: #282828;
       right: -10px;
     }
   }
+
+  /* carousil */
+ 
+  
+ 
+  /* carousil end */
 
 
