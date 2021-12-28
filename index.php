@@ -1213,9 +1213,69 @@
           </div>
 
         </div>
+        <div class="col-lg-4 col-md-6 col-12   new_letter">
+         
+         <div class="row">
+           <div class="col-12 p-0">
+             <img src="images/redeem.webp" class="img-fluid" alt="">
+           </div>
+           <div class="col-12 p-4 bg-white div_news">
+             <h3>Redeem Your Free RM200 Gladax Voucher!</h3><br>
+             <p>SEAGM is collaborating with Gladax! Find out how to redeem your free voucher worth RM200! Offer is live from November 1 to December 31, 2021. </p>
+           </div>
+         </div>
+
+       </div>
       </div>
     </div>
 
+  </section>
+  <section class="bg-dark">
+    <div class="container pt-5 pb-5 text-light text-center ">
+      <h1>بوابات الدفع</h1><br>
+      <p>إظغط علي طريقة الدفع المناسبة إليك لمشاهدة فيديو عن طريق الإستخدام</p>
+      <div class="row">
+      <div class="col-12 pt-3">
+          <div class="mixedSlider4 ">
+            <div class="MS-content">
+            <div class="item">
+              <img src="images/pic1.png" class="img-fluid" alt="">
+
+
+              </div>
+          
+
+              <div class="item">
+              <img src="images/pic2.png" class="img-fluid" alt="">
+
+
+              </div>
+              <div class="item">
+              <img src="images/pic3.png" class="img-fluid" alt="">
+
+
+              </div>
+              <div class="item">
+              <img src="images/pic4.png" class="img-fluid" alt="">
+
+
+              </div>
+              <div class="item">
+              <img src="images/pic2.png" class="img-fluid" alt="">
+
+
+              </div>
+              
+
+            </div>
+            <!-- <div class="MS-controls">
+              <button class="MS-left"><i class="fa fa-angle-left" aria-hidden="true"></i></button>
+              <button class="MS-right"><i class="fa fa-angle-right" aria-hidden="true"></i></button>
+            </div> -->
+          </div>
+        </div>
+      </div>
+    </div>
   </section>
 
   <?php include('includes/footer.php') ?>
@@ -1243,6 +1303,11 @@
 duration: 750,
 interval: 1500,
 });
+$('.mixedSlider4').multislider({
+
+duration: 750,
+interval: 1500,
+});
 
 
     $(".product").mouseover(function() {
@@ -1258,26 +1323,26 @@ interval: 1500,
 
     $(".div_hover1").mouseover(function() {
     
-      $( ".animation1" ).fadeOut("slow");
+      $( ".animation1" ).fadeOut();
 
 
     });
     $(".div_hover1").mouseout(function() {
 
-      $( ".animation1" ).fadeIn("slow");
+      $( ".animation1" ).fadeIn();
 
     });
 
 
     $(".div_hover2").mouseover(function() {
     
-    $( ".animation2" ).fadeOut("slow");
+    $( ".animation2" ).fadeOut();
 
 
   });
   $(".div_hover2").mouseout(function() {
 
-    $( ".animation2" ).fadeIn("slow");
+    $( ".animation2" ).fadeIn();
 
   });
 
