@@ -5,7 +5,11 @@
   <!-- Required meta tags -->
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
+  <style>
+    .sub_menu{
+  display: none !important;
+}
+    </style>
   <!-- Bootstrap CSS -->
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
@@ -17,7 +21,9 @@
 </head>
 
 <body>
+
   <?php include('includes/header.php') ?>
+  
 
 
 
@@ -412,10 +418,12 @@
           <div class="mixedSlider3 ">
             <div class="MS-content">
             <div class="item">
+            <a class="a_tag" href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ==">
                 <div class="col-12 mt-4">
                   <div class="row bg-white card-back p-0">
                     <div class="col-12 p-0">
                       <div class="playstore p-3 card_custom">
+                        <a href="#">
                         <div class="row p-0">
                           <div class="col-3">
                             <img class="img_card" src="images/playstore_image.webp" alt="">
@@ -425,6 +433,8 @@
                             <h5>Google Play Gift Card 200,000 WON KR</h5>
                           </div>
                         </div>
+                        </a>
+                       
 
                       </div>
                     </div>
@@ -449,11 +459,12 @@
                   </div>
                 </div>
 
-
+            </a>
               </div>
           
 
               <div class="item">
+              <a class="a_tag" href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ==">
                 <div class="col-12 mt-4">
 
                   <div class="row bg-white card-back p-0">
@@ -493,9 +504,10 @@
 
 
                 </div>
-
+              </a>
               </div>
               <div class="item">
+              <a class="a_tag" href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ==">
                 <div class="col-12 mt-4">
 
                   <div class="row bg-white card-back p-0">
@@ -536,7 +548,7 @@
 
                 </div>
 
-
+              </a>
               </div>
             
 
@@ -585,7 +597,7 @@
 
         </div>
         <div class="col-lg-4 col-md-6 col-12 mt-4">
-
+          <a class="a_tag" href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ==">
           <div class="row bg-white card-back p-0">
             <div class="col-12 p-0">
               <div class="playstore p-3 card_custom">
@@ -621,11 +633,13 @@
 
           </div>
 
+          </a>
+         
 
         </div>
 
         <div class="col-lg-4 col-md-6 col-12 mt-4">
-
+        <a class="a_tag" href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ==">
           <div class="row bg-white card-back p-0">
             <div class="col-12 p-0">
               <div class="playstation p-3 card_custom">
@@ -660,12 +674,12 @@
             </div>
 
           </div>
-
+          </a>
 
         </div>
 
         <div class="col-lg-4 col-md-6 col-12 mt-4">
-
+        <a class="a_tag" href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ==">
           <div class="row bg-white card-back p-0">
             <div class="col-12 p-0">
               <div class="warrior p-3 card_custom">
@@ -700,7 +714,7 @@
             </div>
 
           </div>
-
+          </a>
 
         </div>
 
@@ -708,7 +722,7 @@
 
 
         <div class="col-lg-4 col-md-6 col-12 mt-4">
-
+        <a class="a_tag" href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ==">
           <div class="row bg-white card-back p-0">
             <div class="col-12 p-0">
               <div class="playstation p-3 card_custom">
@@ -743,11 +757,11 @@
             </div>
 
           </div>
-
+        </a>
 
         </div>
         <div class="col-lg-4 col-md-6 col-12 mt-4">
-
+        <a class="a_tag" href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ==">
           <div class="row bg-white card-back p-0">
             <div class="col-12 p-0">
               <div class="playstore p-3 card_custom">
@@ -783,11 +797,11 @@
 
           </div>
 
-
+        </a>
         </div>
 
         <div class="col-lg-4 col-md-6 col-12 mt-4">
-
+        <a class="a_tag" href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ==">
           <div class="row bg-white card-back p-0">
             <div class="col-12 p-0">
               <div class="warrior p-3 card_custom">
@@ -822,12 +836,12 @@
             </div>
 
           </div>
-
+        </a>
 
         </div>
 
         <div class="col-lg-4 col-md-6 col-12 mt-4">
-
+        <a class="a_tag" href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ==">
           <div class="row bg-white card-back p-0">
             <div class="col-12 p-0">
               <div class="playstation p-3 card_custom">
@@ -863,10 +877,10 @@
 
           </div>
 
-
+        </a>
         </div>
         <div class="col-lg-4 col-md-6 col-12 mt-4">
-
+        <a class="a_tag" href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ==">
           <div class="row bg-white card-back p-0">
             <div class="col-12 p-0">
               <div class="playstore p-3 card_custom">
@@ -901,12 +915,12 @@
             </div>
 
           </div>
-
+        </a>
 
         </div>
 
         <div class="col-lg-4 col-md-6 col-12 mt-4">
-
+        <a class="a_tag" href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ==">
           <div class="row bg-white card-back p-0">
             <div class="col-12 p-0">
               <div class="warrior p-3 card_custom">
@@ -941,7 +955,7 @@
             </div>
 
           </div>
-
+        </a>
 
         </div>
 
@@ -1321,16 +1335,19 @@ interval: 1500,
 
     });
 
+
+    
+
     $(".div_hover1").mouseover(function() {
     
-      $( ".animation1" ).fadeOut();
+      $( ".animation1" ).delay(5000).hide();
 
 
     });
     $(".div_hover1").mouseout(function() {
 
-      $( ".animation1" ).fadeIn();
-
+      $( ".animation1" ).show();
+     
     });
 
 

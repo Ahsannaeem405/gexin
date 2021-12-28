@@ -21,6 +21,9 @@
     .navbar .collapse .navbar-nav .nav-item .nav-link {
     
 }
+/* .hide{
+    display: none !important;
+} */
     #navbarSupportedContent{
         height: calc(100vh - 50px) !important;
         overflow-y: auto !important;
@@ -30,7 +33,9 @@
     background: black !important;
     left: 0px !important;
     z-index: 2 !important;
-    }
+    display: none ;
+
+    } 
     #navbarNav{
         margin-bottom: 20px !important;
     }

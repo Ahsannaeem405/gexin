@@ -7,7 +7,7 @@
             <img src="images/logo-icon.png" alt="">
         </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-            <i class="fa fa-bars" id="hamburger-icon" data-state="non-active"></i>
+            <i class="fa fa-bars" id="hamburger-icon" data-state="non-active" onclick={submenushow()}></i>
             <!-- <span class="navbar-toggler-icon">
       </span> -->
         </button>
@@ -57,6 +57,7 @@
       </ul>
  
         </div>
+        
         <div class="header-right">
             <div class="header-right-inner">
                 <ul class="navbar-nav mb-2 mb-lg-0">
@@ -152,14 +153,42 @@
     </div>
 </nav>
 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script>
+
+$(document).click(function() {
+
+
+// $('.modal').css('display', 'none');
+$("#navbarSupportedContent").hide();
+
+
+});
+$("#hamburger-icon").click(function(event) {
+// $( ".navbar-toggler" ).removeClass( "collapsed" );
+
+$("#navbarSupportedContent").show();
+
+event.stopPropagation();
+});
+
+$("#navbarSupportedContent").click(function(event) {
+$("#navbarSupportedContent").show();
+
+event.stopPropagation();
+
+});
+</script>
 
 <script>
-    function showOrHideDiv() {
-        var v = document.getElementById("showOrHide");
-        if (v.style.display === "none") {
-            v.style.display = "block";
-        } else {
-            v.style.display = "none";
-        }
-    }
+
+    
+    // function showOrHideDiv() {
+    //     var v = document.getElementById("showOrHide");
+    //     if (v.style.display === "none") {
+    //         v.style.display = "block";
+    //     } else {
+    //         v.style.display = "none";
+    //     }
+    // }
 </script>
