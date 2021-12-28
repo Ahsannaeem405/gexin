@@ -14,6 +14,9 @@
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+<link href='https://fonts.googleapis.com/css?family=Karla' rel='stylesheet' type='text/css'><link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css'>
+
+<link rel="stylesheet" href="./style2.css">
 
 
   <title>Gexin</title>
@@ -30,37 +33,47 @@
   </style>
 
 <section class="section0">
-<div id="myCarousel" class="carousel slide" data-ride="carousel">
-      <!-- Indicators -->
-      <ol class="carousel-indicators">
-        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-        <li data-target="#myCarousel" data-slide-to="1"></li>
-        <!-- <li data-target="#myCarousel" data-slide-to="2"></li> -->
-      </ol>
+<div class="slider-container" style="width:100%; left:29%!important;">
 
-      <!-- Wrapper for slides -->
-      <div class="carousel-inner">
-        <div class="item active">
-          <img src="images/slider1.jpg" alt="Los Angeles" style="width:100%;">
-        </div>
+  <div class="slider-content">
 
-        <div class="item">
-          <img src="images/slider2.jpg" alt="Chicago" style="width:100%;">
-        </div>
-
-
-      </div>
-
-      <!-- Left and right controls -->
-      <a class="left carousel-control" href="#myCarousel" data-slide="prev">
-        <span class="glyphicon glyphicon-chevron-left"></span>
-        <span class="sr-only">Previous</span>
-      </a>
-      <a class="right carousel-control" href="#myCarousel" data-slide="next">
-        <span class="glyphicon glyphicon-chevron-right"></span>
-        <span class="sr-only">Next</span>
-      </a>
+    <div class="slider-single">
+      <img class="slider-single-image"  src="img.jpg" alt="1" />
     </div>
+
+    <div class="slider-single">
+      <img class="slider-single-image" src="img.jpg" alt="2" />
+    </div>
+
+    <div class="slider-single">
+      <img class="slider-single-image" src="img.jpg" alt="3" />
+      
+    </div>
+
+
+    <div class="slider-single">
+      <img class="slider-single-image" src="img.jpg" alt="4" />
+     
+    </div>
+
+
+    <div class="slider-single">
+      <img class="slider-single-image" src="img.jpg" alt="5" />
+      
+    </div>
+
+    <div class="slider-single">
+      <img class="slider-single-image" src="img.jpg" alt="6" />
+      
+    </div>
+
+  </div>
+
+  <a class="slider-left" href="javascript:void(0);"><i class="fa fa-arrow-left"></i></a>
+
+  <a class="slider-right" href="javascript:void(0);"><i class="fa fa-arrow-right"></i></a>
+
+</div>
 </section>
   <section class="section">
  
@@ -1368,7 +1381,7 @@ interval: 1500,
   </script>
 
 
-
+ <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script><script  src="./script2.js"></script>
 
 
 
