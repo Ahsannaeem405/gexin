@@ -215,7 +215,7 @@ del{
     color: white;
 }
 .btn-primary{
-    background-color: black;
+    background: linear-gradient(to right, #73D04B, #F3B939) !important;
     border: 3px solid transparent;
     border-image: linear-gradient(to right, #73D04B, #F3B939);
     font-size: 20px;
