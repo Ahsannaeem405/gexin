@@ -33,7 +33,7 @@
     background: black !important;
     left: 0px !important;
     z-index: 2 !important;
-    display: none ;
+    display: none !important;
 
     } 
     #navbarNav{

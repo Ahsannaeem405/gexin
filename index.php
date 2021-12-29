@@ -33,7 +33,8 @@
   </style>
 
 <section class="section0">
-<div class="slider-container" style="width:100%; left:29%!important;">
+  <div class="container p-0">
+<div class="slider-container" style="width:100%">
 
   <div class="slider-content">
 
@@ -69,10 +70,11 @@
 
   </div>
 
-  <a class="slider-left" href="javascript:void(0);"><i class="fa fa-arrow-left"></i></a>
+  <a class="slider-left" href="javascript:void(0);"><i class="fas fa-chevron-left"></i></a>
 
-  <a class="slider-right" href="javascript:void(0);"><i class="fa fa-arrow-right"></i></a>
+  <a class="slider-right" href="javascript:void(0);"><i class="fas fa-chevron-right"></i></a>
 
+</div>
 </div>
 </section>
   <section class="section">
@@ -87,18 +89,20 @@
         <div class="col-lg-4 col-md-6 col-12 mt-4">
 
           <div class="row  card-back p-0">
-
-            <div class="playstore1 pt-2 pb-2 card_custom">
-              <div class="row">
-                <div class="col-3 pt-3">
+            
+            <div class="left_side_animation">
+            </div>
+            <div class="playstore1 playstore12 p-2 ">
+              <div class="row card_custom">
+                <div class="col-3 pt-2">
                   <img class="img_card" src="images/card1.png" alt="">
                 </div>
                 <div class="col-9 pt-5  text-center">
                   <h1>سحب</h1>
                 </div>
               </div>
-
             </div>
+            
 
 
 
@@ -110,9 +114,9 @@
 
           <div class="row card-back p-0">
 
-            <div class="playstore1 pt-2 pb-2 card_custom">
-              <div class="row">
-                <div class="col-3 pt-3">
+            <div class="playstore1 p-2">
+              <div class="row card_custom">
+                <div class="col-3 pt-2">
                   <img class="img_card" src="images/card2.png" alt="">
                 </div>
                 <div class="col-9 pt-5  text-center">
@@ -133,9 +137,9 @@
 
           <div class="row  card-back p-0">
 
-            <div class="playstore1 pt-2 pb-2 card_custom">
-              <div class="row">
-                <div class="col-3 pt-3">
+            <div class="playstore1 p-2">
+              <div class="row card_custom">
+                <div class="col-3 pt-2">
                   <img class="img_card" src="images/card3.png" alt="">
                 </div>
                 <div class="col-9 pt-5  text-center">
@@ -156,9 +160,9 @@
 
           <div class="row  card-back p-0">
 
-            <div class="playstore1 pt-2 pb-2 card_custom">
-              <div class="row">
-                <div class="col-3 pt-3">
+            <div class="playstore1 p-2">
+              <div class="row card_custom">
+                <div class="col-3 pt-2">
                   <img class="img_card" src="images/card4.png" alt="">
                 </div>
                 <div class="col-9 pt-5  text-center">
@@ -176,66 +180,92 @@
         </div>
 
         <div class="col-lg-4 col-md-6 col-12 mt-4">
-
           <div class="row  card-back p-0">
-
-            <div class="playstore1 pt-2 pb-2 card_custom">
-              <div class="row">
-                <div class="col-3 pt-3">
+            <div class="playstore1 p-2">
+              <div class="row card_custom">
+                <div class="col-3 pt-2">
                   <img class="img_card" src="images/card5.png" alt="">
                 </div>
                 <div class="col-9 pt-5  text-center">
                   <h1> بطاقات الالعاب</h1>
                 </div>
               </div>
-
             </div>
-
-
-
           </div>
-
-
         </div>
+
+        <!-- Start -->
+        <div class="col-lg-4 col-md-6 col-12 mt-4">
+          <div class="row  card-back p-0">
+            
+            <div class="playstore1 p-2">
+              <div class="row card_custom">
+                <div class="col-3 pt-2">
+                  <img class="img_card" src="images/card5.png" alt="">
+                </div>
+                <div class="col-9 pt-5  text-center">
+                  <h1> بطاقات الالعاب</h1>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 col-md-6 col-12 mt-4">
+          <div class="row  card-back p-0">
+            <div class="playstore1 p-2">
+              <div class="row card_custom">
+                <div class="col-3 pt-2">
+                  <img class="img_card" src="images/card5.png" alt="">
+                </div>
+                <div class="col-9 pt-5  text-center">
+                  <h1> بطاقات الالعاب</h1>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 col-md-6 col-12 mt-4">
+          <div class="row  card-back p-0">
+            <div class="playstore1 p-2">
+              <div class="row card_custom">
+                <div class="col-3 pt-2">
+                  <img class="img_card" src="images/card5.png" alt="">
+                </div>
+                <div class="col-9 pt-5  text-center">
+                  <h1> بطاقات الالعاب</h1>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- end -->
 
 
         <div class="col-lg-4 col-md-6 col-12 mt-4">
 
           <div class="row  card-back p-0">
 
-            <div class="playstore1 pt-2 pb-2 card_custom">
-              <div class="row">
-                <div class="col-3 pt-3">
+          <div class="right_side_animation">
+            </div>
+            <div class="playstore1 playstore123 p-2 ">
+              <div class="row card_custom">
+                <div class="col-3 pt-2">
                   <img class="img_card" src="images/card6.png" alt="">
                 </div>
                 <div class="col-9 pt-5  text-center">
                   <h1>توب اب</h1>
                 </div>
               </div>
-
             </div>
-
-
 
           </div>
 
-
         </div>
-
-
-
-
-
-
-
-
-
-
-
-
       </div>
     </div>
   </section>
+
+
 
   <section class="section1">
     <div class="container pb-5">
@@ -348,33 +378,30 @@
     <div class="container">
       <div class="row pt-5">
         <div class="col-6 p-3">
-          <a href="#" class="btn btn-primary"><i class="fas fa-th-large"></i> &nbsp; عرض الكل</a>
+          <a href="#" class="btn btn-primary"><i class="fas fa-border-all"></i> &nbsp; عرض الكل</a>
         </div>
-        <div class="col-6 p-3">
+        <div class="col-6 p-3 p-0">
           <h1 class="text">توب اب</h1>
 
         </div>
         <div class="col-12 pt-3">
           <div class="mixedSlider ms-PAUSE">
             <div class="MS-content">
+
               <div class="item">
                 <a href="#" class="img_a">
                   <div class="imgTitle">
                     <img src="images/game1.jpg" alt="" />
                   </div>
                 </a>
-
-
               </div>
+
               <div class="item">
                 <a href="#" class="img_a">
                   <div class="imgTitle">
-
                     <img src="images/game2.png" alt="" />
                   </div>
                 </a>
-
-
               </div>
 
               <div class="item">
@@ -410,6 +437,7 @@
               <button class="MS-left"><i class="fa fa-angle-left" aria-hidden="true"></i></button>
               <button class="MS-right"><i class="fa fa-angle-right" aria-hidden="true"></i></button>
             </div>
+
           </div>
         </div>
       </div>
@@ -420,7 +448,7 @@
     <div class="container pt-5 pb-5">
       <div class="row pt-5">
         <div class="col-6 p-3">
-          <a href="#" class="btn btn-primary"><i class="fas fa-th-large"></i> &nbsp; عرض الكل</a>
+          <a href="#" class="btn btn-primary"><i class="fas fa-border-all"></i> &nbsp; عرض الكل</a>
         </div>
         <div class="col-6 p-3">
           <h1 class="text">بطاقات الالعاب</h1>
@@ -603,7 +631,7 @@
     <div class="container pt-5 pb-5">
       <div class="row pt-5">
         <div class="col-6 p-3">
-          <a href="#" class="btn btn-primary"><i class="fas fa-th-large"></i> &nbsp; عرض الكل</a>
+          <a href="#" class="btn btn-primary"><i class="fas fa-border-all"></i> &nbsp; عرض الكل</a>
         </div>
         <div class="col-6 p-3">
           <h1 class="text">بطاقات الالعاب</h1>
@@ -983,7 +1011,7 @@
     <div class="container">
       <div class="row pt-5">
         <div class="col-6 p-3">
-          <a href="#" class="btn btn-primary"><i class="fas fa-th-large"></i> &nbsp; عرض الكل</a>
+          <a href="#" class="btn btn-primary"><i class="fas fa-border-all"></i> &nbsp; عرض الكل</a>
         </div>
         <div class="col-6 p-3">
           <h1 class="text">توب يالايدي</h1>
@@ -1052,7 +1080,7 @@
   </section>
 
 
-
+<!-- 
 
   <section class="section6">
     <div class="container pt-5 pb-5">
@@ -1130,14 +1158,14 @@
 
       </div>
     </div>
-  </section>
+  </section> -->
 
   <section class="section7">
-    <div class="container pt-5 pb-5">
+    <div class="container py-5 pb-5">
       <div class="col-lg-4 col-md-6 col-12 p-3 ">
-        <div class="row bg-white p-3">
+        <div class="row storebg text-white p-3 rounded">
           <div class="col-12">
-            <h3>
+            <h3 class="my-3">
               <b> Game Accessories</b>
             </h3>
           </div>
@@ -1159,10 +1187,12 @@
           </div>
         </div>
       </div>
+
+
       <div class="col-lg-4 col-md-6 col-12 p-3 ">
-        <div class="row bg-white p-3">
+        <div class="row storebg text-white p-3 rounded">
           <div class="col-12">
-            <h3>
+            <h3  class="my-3">
               <b>Shop By Category</b>
             </h3>
           </div>
@@ -1184,10 +1214,11 @@
           </div>
         </div>
       </div>
-      <div class="col-lg-4 col-md-6 col-12 p-3 ">
-        <div class="row bg-white p-3">
+
+      <div class="col-lg-4 col-md-6 col-12 p-3">
+        <div class="row storebg text-white p-3 rounded">
           <div class="col-12">
-            <h3>
+            <h3  class="my-3">
               <b>Holidays Gift</b>
             </h3>
           </div>
@@ -1211,6 +1242,7 @@
       </div>
     </div>
   </section>
+
   <section class="section8">
     <div class="container pt-5 pb-5">
       <h1 class="news">NEWS & PROMOTION</h1>
@@ -1221,7 +1253,7 @@
             <div class="col-12 p-0">
               <img src="images/redeem.webp" class="img-fluid" alt="">
             </div>
-            <div class="col-12 p-4 bg-white div_news">
+            <div class="col-12 p-4 text-white storebg2 div_news">
               <h3>Redeem Your Free RM200 Gladax Voucher!</h3><br>
               <p>SEAGM is collaborating with Gladax! Find out how to redeem your free voucher worth RM200! Offer is live from November 1 to December 31, 2021. </p>
             </div>
@@ -1233,7 +1265,7 @@
             <div class="col-12 p-0">
               <img src="images/battle.webp" class="img-fluid" alt="">
             </div>
-            <div class="col-12 p-4 bg-white div_news">
+            <div class="col-12 p-4 text-white storebg2 div_news">
               <h3>Marvel Super War Battle Pass 17: Undisputed Champion Colossus</h3><br>
               <p>Check out the NEW Battle Pass 17 for Marvel Super War. Featuring Undisputed Champion Colossus and a classic boxing theme, this battle pass is sure to rock your socks off. </p>
             </div>
@@ -1246,7 +1278,7 @@
            <div class="col-12 p-0">
              <img src="images/redeem.webp" class="img-fluid" alt="">
            </div>
-           <div class="col-12 p-4 bg-white div_news">
+           <div class="col-12 p-4 text-white storebg2 div_news">
              <h3>Redeem Your Free RM200 Gladax Voucher!</h3><br>
              <p>SEAGM is collaborating with Gladax! Find out how to redeem your free voucher worth RM200! Offer is live from November 1 to December 31, 2021. </p>
            </div>
@@ -1346,6 +1378,28 @@ interval: 1500,
 
       $(this).find('div').find('img').removeClass("hover");
 
+    });
+
+
+    $(".playstore12").mouseover(function() {
+      $('.left_side_animation').hide();
+
+
+    });
+    $(".playstore12").mouseout(function() {
+
+      $('.left_side_animation').show();
+    });
+
+
+    $(".playstore123").mouseover(function() {
+      $('.right_side_animation').hide();
+
+
+    });
+    $(".playstore123").mouseout(function() {
+
+      $('.right_side_animation').show();
     });
 
 
