@@ -34,48 +34,53 @@
   </style>
 
 <section class="section0">
-  <div class="container p-0">
-<div class="slider-container" style="width:100%">
+  <div class="container-fluid p-0 ">
+    <div class="row d-flex justify-content-center">
+      <div class="col-12 col-lg-11">
+      <div class="slider-container" style="width:100%">
 
-  <div class="slider-content">
+<div class="slider-content">
 
-    <div class="slider-single">
-      <img class="slider-single-image"  src="img.jpg" alt="1" />
-    </div>
-
-    <div class="slider-single">
-      <img class="slider-single-image" src="img.jpg" alt="2" />
-    </div>
-
-    <div class="slider-single">
-      <img class="slider-single-image" src="img.jpg" alt="3" />
-      
-    </div>
-
-
-    <div class="slider-single">
-      <img class="slider-single-image" src="img.jpg" alt="4" />
-     
-    </div>
-
-
-    <div class="slider-single">
-      <img class="slider-single-image" src="img.jpg" alt="5" />
-      
-    </div>
-
-    <div class="slider-single">
-      <img class="slider-single-image" src="img.jpg" alt="6" />
-      
-    </div>
-
+  <div class="slider-single">
+    <img class="slider-single-image"  src="img.jpg" alt="1" />
   </div>
 
-  <a class="slider-left" href="javascript:void(0);"><i class="fas fa-chevron-left"></i></a>
+  <div class="slider-single">
+    <img class="slider-single-image" src="img.jpg" alt="2" />
+  </div>
 
-  <a class="slider-right" href="javascript:void(0);"><i class="fas fa-chevron-right"></i></a>
+  <div class="slider-single">
+    <img class="slider-single-image" src="img.jpg" alt="3" />
+    
+  </div>
+
+
+  <div class="slider-single">
+    <img class="slider-single-image" src="img.jpg" alt="4" />
+   
+  </div>
+
+
+  <div class="slider-single">
+    <img class="slider-single-image" src="img.jpg" alt="5" />
+    
+  </div>
+
+  <div class="slider-single">
+    <img class="slider-single-image" src="img.jpg" alt="6" />
+    
+  </div>
 
 </div>
+  <div class="slider_nav">
+  <a class="slider-left" href="javascript:void(0);"><i class="fas fa-chevron-left "></i></a>
+  <a class="slider-right" href="javascript:void(0);"><i class="fas fa-chevron-right "></i></a>
+</div>
+
+</div>
+      </div>
+    </div>
+
 </div>
 </section>
   <section class="section">
@@ -95,8 +100,8 @@
             </div>
             <div class="playstore1 playstore12 p-2 ">
               <div class="row card_custom">
-                <div class="col-3 pt-2">
-                  <img class="img_card" src="images/card1.png" alt="">
+                <div class="col-3 p-2">
+                  <img class="img_card" src="images/card11.webp" alt="">
                 </div>
                 <div class="col-9 pt-5  text-center">
                   <h1>سحب</h1>
@@ -117,8 +122,8 @@
 
             <div class="playstore1 p-2">
               <div class="row card_custom">
-                <div class="col-3 pt-2">
-                  <img class="img_card" src="images/card2.png" alt="">
+                <div class="col-3 p-2">
+                  <img class="img_card" src="images/card12.webp" alt="">
                 </div>
                 <div class="col-9 pt-5  text-center">
                   <h1>اكسسورات</h1>
@@ -140,8 +145,8 @@
 
             <div class="playstore1 p-2">
               <div class="row card_custom">
-                <div class="col-3 pt-2">
-                  <img class="img_card" src="images/card3.png" alt="">
+                <div class="col-3 p-2">
+                  <img class="img_card" src="images/card13.webp" alt="">
                 </div>
                 <div class="col-9 pt-5  text-center">
                   <h1>اضافه الرصيد</h1>
@@ -163,8 +168,8 @@
 
             <div class="playstore1 p-2">
               <div class="row card_custom">
-                <div class="col-3 pt-2">
-                  <img class="img_card" src="images/card4.png" alt="">
+                <div class="col-3 p-2">
+                  <img class="img_card" src="images/card14.webp" alt="">
                 </div>
                 <div class="col-9 pt-5  text-center">
                   <h1>اعاده شحن الارصده</h1>
@@ -184,8 +189,8 @@
           <div class="row  card-back p-0">
             <div class="playstore1 p-2">
               <div class="row card_custom">
-                <div class="col-3 pt-2">
-                  <img class="img_card" src="images/card5.png" alt="">
+                <div class="col-3 p-2">
+                  <img class="img_card" src="images/card15.webp" alt="">
                 </div>
                 <div class="col-9 pt-5  text-center">
                   <h1> بطاقات الالعاب</h1>
@@ -201,8 +206,8 @@
             
             <div class="playstore1 p-2">
               <div class="row card_custom">
-                <div class="col-3 pt-2">
-                  <img class="img_card" src="images/card5.png" alt="">
+                <div class="col-3 p-2">
+                  <img class="img_card" src="images/card16.webp" alt="">
                 </div>
                 <div class="col-9 pt-5  text-center">
                   <h1> بطاقات الالعاب</h1>
@@ -215,8 +220,8 @@
           <div class="row  card-back p-0">
             <div class="playstore1 p-2">
               <div class="row card_custom">
-                <div class="col-3 pt-2">
-                  <img class="img_card" src="images/card5.png" alt="">
+                <div class="col-3 p-2">
+                  <img class="img_card" src="images/card17.webp" alt="">
                 </div>
                 <div class="col-9 pt-5  text-center">
                   <h1> بطاقات الالعاب</h1>
@@ -229,8 +234,8 @@
           <div class="row  card-back p-0">
             <div class="playstore1 p-2">
               <div class="row card_custom">
-                <div class="col-3 pt-2">
-                  <img class="img_card" src="images/card5.png" alt="">
+                <div class="col-3 p-2">
+                  <img class="img_card" src="images/card18.webp" alt="">
                 </div>
                 <div class="col-9 pt-5  text-center">
                   <h1> بطاقات الالعاب</h1>
@@ -250,8 +255,8 @@
             </div>
             <div class="playstore1 playstore123 p-2 ">
               <div class="row card_custom">
-                <div class="col-3 pt-2">
-                  <img class="img_card" src="images/card6.png" alt="">
+                <div class="col-3 p-2">
+                  <img class="img_card" src="images/card19.webp" alt="">
                 </div>
                 <div class="col-9 pt-5  text-center">
                   <h1>توب اب</h1>
@@ -379,7 +384,7 @@
     <div class="container">
       <div class="row pt-5">
         <div class="col-6 p-3">
-          <a href="#" class="btn btn-primary"><i class="fas fa-border-all"></i> &nbsp; عرض الكل</a>
+          <a href="#" class="btn btn-primary"><i class="fas fa-border-all"></i><span> &nbsp; عرض الكل</span></a>
         </div>
         <div class="col-6 p-3 p-0">
           <h1 class="text">توب اب</h1>
@@ -392,7 +397,7 @@
               <div class="item">
                 <a href="#" class="img_a">
                   <div class="imgTitle">
-                    <img src="images/game1.jpg" alt="" />
+                    <img src="images/game11.webp" alt="" />
                   </div>
                 </a>
               </div>
@@ -400,7 +405,7 @@
               <div class="item">
                 <a href="#" class="img_a">
                   <div class="imgTitle">
-                    <img src="images/game2.png" alt="" />
+                    <img src="images/game11.webp" alt="" />
                   </div>
                 </a>
               </div>
@@ -408,16 +413,7 @@
               <div class="item">
                 <a href="#" class="img_a">
                   <div class="imgTitle">
-                    <img src="images/game4.jpg" alt="" />
-                  </div>
-                </a>
-
-
-              </div>
-              <div class="item">
-                <a href="#" class="img_a">
-                  <div class="imgTitle">
-                    <img src="images/game5.jpg" alt="" />
+                    <img src="images/game11.webp" alt="" />
                   </div>
                 </a>
 
@@ -426,7 +422,16 @@
               <div class="item">
                 <a href="#" class="img_a">
                   <div class="imgTitle">
-                    <img src="images/game6.jpg" alt="" />
+                    <img src="images/game11.webp" alt="" />
+                  </div>
+                </a>
+
+
+              </div>
+              <div class="item">
+                <a href="#" class="img_a">
+                  <div class="imgTitle">
+                    <img src="images/game11.webp" alt="" />
                   </div>
                 </a>
 
@@ -447,28 +452,28 @@
             <div class="item mx-2">
             <a href="#" class="img_a">
                   <div class="imgTitle">
-                    <img src="images/game1.jpg" alt="" />
+                    <img src="images/game11.webp" alt="" />
                   </div>
                 </a>
             </div>
             <div class="item mx-2">
             <a href="#" class="img_a">
                   <div class="imgTitle">
-                  <img src="images/game2.png" alt="" />
+                  <img src="images/game11.webp" alt="" />
                   </div>
                 </a>
             </div>
             <div class="item mx-2">
             <a href="#" class="img_a">
                   <div class="imgTitle">
-                    <img src="images/game4.jpg" alt="" />
+                    <img src="images/game11.webp" alt="" />
                   </div>
                 </a>
             </div>
             <div class="item mx-2">
             <a href="#" class="img_a">
                   <div class="imgTitle">
-                    <img src="images/game5.jpg" alt="" />
+                    <img src="images/game11.webp" alt="" />
                   </div>
                 </a>
             </div>
@@ -491,7 +496,7 @@
     <div class="container pt-5 pb-5">
       <div class="row pt-5">
         <div class="col-6 p-3">
-          <a href="#" class="btn btn-primary"><i class="fas fa-border-all"></i> &nbsp; عرض الكل</a>
+          <a href="#" class="btn btn-primary"><i class="fas fa-border-all"></i><span> &nbsp; عرض الكل</span></a>
         </div>
         <div class="col-6 p-3">
           <h1 class="text">بطاقات الالعاب</h1>
@@ -647,25 +652,6 @@
         </div>
       </div>
 
-
-
-
-    
-
-
-
-    
-   
-
-
-     
-    
-
-    
-
-
-
-
     </div>
     </div>
   </section>
@@ -674,7 +660,7 @@
     <div class="container pt-5 pb-5">
       <div class="row pt-5">
         <div class="col-6 p-3">
-          <a href="#" class="btn btn-primary"><i class="fas fa-border-all"></i> &nbsp; عرض الكل</a>
+          <a href="#" class="btn btn-primary"><i class="fas fa-border-all"></i><span> &nbsp; عرض الكل</span></a>
         </div>
         <div class="col-6 p-3">
           <h1 class="text">بطاقات الالعاب</h1>
@@ -1042,10 +1028,6 @@
         </a>
 
         </div>
-
-
-
-
       </div>
     </div>
   </section>
@@ -1054,7 +1036,7 @@
     <div class="container">
       <div class="row pt-5">
         <div class="col-6 p-3">
-          <a href="#" class="btn btn-primary"><i class="fas fa-border-all"></i> &nbsp; عرض الكل</a>
+          <a href="#" class="btn btn-primary"><i class="fas fa-border-all"></i><span> &nbsp; عرض الكل</span></a>
         </div>
         <div class="col-6 p-3">
           <h1 class="text">توب يالايدي</h1>
@@ -1066,7 +1048,7 @@
               <div class="item">
                 <a href="#" class="img_a">
                   <div class="imgTitle">
-                    <img src="images/game1.jpg" alt="" />
+                    <img src="images/game21.webp" alt="" />
                   </div>
                 </a>
 
@@ -1076,7 +1058,7 @@
                 <a href="#" class="img_a">
                   <div class="imgTitle">
 
-                    <img src="images/game2.png" alt="" />
+                    <img src="images/game22.webp" alt="" />
                   </div>
                 </a>
 
@@ -1086,7 +1068,7 @@
               <div class="item">
                 <a href="#" class="img_a">
                   <div class="imgTitle">
-                    <img src="images/game4.jpg" alt="" />
+                    <img src="images/game23.webp" alt="" />
                   </div>
                 </a>
 
@@ -1095,7 +1077,7 @@
               <div class="item">
                 <a href="#" class="img_a">
                   <div class="imgTitle">
-                    <img src="images/game5.jpg" alt="" />
+                    <img src="images/game24.webp" alt="" />
                   </div>
                 </a>
 
@@ -1104,7 +1086,7 @@
               <div class="item">
                 <a href="#" class="img_a">
                   <div class="imgTitle">
-                    <img src="images/game6.jpg" alt="" />
+                    <img src="images/game25.webp" alt="" />
                   </div>
                 </a>
 
@@ -1123,35 +1105,35 @@
             <div class="item mx-2">
             <a href="#" class="img_a">
                   <div class="imgTitle">
-                    <img src="images/game1.jpg" alt="" />
+                    <img src="images/game21.webp" alt="" />
                   </div>
                 </a>
             </div>
             <div class="item mx-2">
             <a href="#" class="img_a">
                   <div class="imgTitle">
-                  <img src="images/game2.png" alt="" />
+                  <img src="images/game22.webp" alt="" />
                   </div>
                 </a>
             </div>
             <div class="item mx-2">
             <a href="#" class="img_a">
                   <div class="imgTitle">
-                  <img src="images/game4.jpg" alt="" />
+                  <img src="images/game23.webp" alt="" />
                   </div>
                 </a>
             </div>
             <div class="item mx-2">
             <a href="#" class="img_a">
                   <div class="imgTitle">
-                    <img src="images/game5.jpg" alt="" />
+                    <img src="images/game24.webp" alt="" />
                   </div>
                 </a>
             </div>
             <div class="item mx-2">
             <a href="#" class="img_a">
                   <div class="imgTitle">
-                    <img src="images/game6.jpg" alt="" />
+                    <img src="images/game25.webp" alt="" />
                   </div>
                 </a>
             </div>
@@ -1245,85 +1227,195 @@
 
   <section class="section7">
     <div class="container py-5 pb-5">
-      <div class="row d-flex justify-content-center">
-      <div class="col-lg-4 col-md-8 col-12 p-3 ">
-        <div class="row storebg text-white p-3 rounded">
-          <div class="col-12">
-            <h3 class="my-3">
-              <b> Game Accessories</b>
-            </h3>
-          </div>
-          <div class="col-6 text-center">
-            <img src="images/headphone.jpg" class="img-fluid" alt="">
-            <p>Headphone</p>
-          </div>
-          <div class="col-6 text-center">
-            <img src="images/Keyboard.jpg" class="img-fluid" alt="">
-            <p>Keyboard</p>
-          </div>
-          <div class="col-6 text-center">
-            <img src="images/Mouse.jpg" class="img-fluid" alt="">
-            <p>Mouse</p>
-          </div>
-          <div class="col-6 text-center">
-            <img src="images/Chair.jpg" class="img-fluid" alt="">
-            <p>Chair</p>
+      <div class="row d-flex justify-content-center d-sm-none d-lg-block">
+        <div class="col-lg-4 col-md-8 col-12 p-3 ">
+          <div class="row storebg text-white p-3 rounded">
+            <div class="col-12">
+              <h3 class="my-3">
+                <b> Game Accessories</b>
+              </h3>
+            </div>
+            <div class="col-6 text-center">
+              <img src="images/headphone.jpg" class="img-fluid" alt="">
+              <p>Headphone</p>
+            </div>
+            <div class="col-6 text-center">
+              <img src="images/Keyboard.jpg" class="img-fluid" alt="">
+              <p>Keyboard</p>
+            </div>
+            <div class="col-6 text-center">
+              <img src="images/Mouse.jpg" class="img-fluid" alt="">
+              <p>Mouse</p>
+            </div>
+            <div class="col-6 text-center">
+              <img src="images/Chair.jpg" class="img-fluid" alt="">
+              <p>Chair</p>
+            </div>
           </div>
         </div>
-      </div>
 
-      <div class="col-lg-4 col-md-8 col-12 p-3 ">
-        <div class="row storebg text-white p-3 rounded">
-          <div class="col-12">
-            <h3  class="my-3">
-              <b>Shop By Category</b>
-            </h3>
-          </div>
-          <div class="col-6 text-center">
-            <img src="images/Laptop.png" class="img-fluid" alt="">
-            <p>Laptop</p>
-          </div>
-          <div class="col-6 text-center">
-            <img src="images/Playstation3.jpg" class="img-fluid" alt="">
-            <p>Video Game</p>
-          </div>
-          <div class="col-6 text-center">
-            <img src="images/Nintendo.png" class="img-fluid" alt="">
-            <p>Nintendo</p>
-          </div>
-          <div class="col-6 text-center">
-            <img src="images/spiderman.jpg" class="img-fluid" alt="">
-            <p>Toys</p>
+        <div class="col-lg-4 col-md-8 col-12 p-3 ">
+          <div class="row storebg text-white p-3 rounded">
+            <div class="col-12">
+              <h3  class="my-3">
+                <b>Shop By Category</b>
+              </h3>
+            </div>
+            <div class="col-6 text-center">
+              <img src="images/Laptop.png" class="img-fluid" alt="">
+              <p>Laptop</p>
+            </div>
+            <div class="col-6 text-center">
+              <img src="images/Playstation3.jpg" class="img-fluid" alt="">
+              <p>Video Game</p>
+            </div>
+            <div class="col-6 text-center">
+              <img src="images/Nintendo.png" class="img-fluid" alt="">
+              <p>Nintendo</p>
+            </div>
+            <div class="col-6 text-center">
+              <img src="images/spiderman.jpg" class="img-fluid" alt="">
+              <p>Toys</p>
+            </div>
           </div>
         </div>
-      </div>
 
-      <div class="col-lg-4 col-md-8 col-12 p-3">
-        <div class="row storebg text-white p-3 rounded">
-          <div class="col-12">
-            <h3  class="my-3">
-              <b>Holidays Gift</b>
-            </h3>
-          </div>
-          <div class="col-6 text-center">
-            <img src="images/cloths.jpg" class="img-fluid" alt="">
-            <p>Fashion</p>
-          </div>
-          <div class="col-6 text-center">
-            <img src="images/toys.jpg" class="img-fluid" alt="">
-            <p>Toys</p>
-          </div>
-          <div class="col-6 text-center">
-            <img src="images/beauty.webp" class="img-fluid" alt="">
-            <p>Beauty</p>
-          </div>
-          <div class="col-6 text-center">
-            <img src="images/headphone.jpg" class="img-fluid" alt="">
-            <p>Electronics</p>
+        <div class="col-lg-4 col-md-8 col-12 p-3">
+          <div class="row storebg text-white p-3 rounded">
+            <div class="col-12">
+              <h3  class="my-3">
+                <b>Holidays Gift</b>
+              </h3>
+            </div>
+            <div class="col-6 text-center">
+              <img src="images/cloths.jpg" class="img-fluid" alt="">
+              <p>Fashion</p>
+            </div>
+            <div class="col-6 text-center">
+              <img src="images/toys.jpg" class="img-fluid" alt="">
+              <p>Toys</p>
+            </div>
+            <div class="col-6 text-center">
+              <img src="images/beauty.webp" class="img-fluid" alt="">
+              <p>Beauty</p>
+            </div>
+            <div class="col-6 text-center">
+              <img src="images/headphone.jpg" class="img-fluid" alt="">
+              <p>Electronics</p>
+            </div>
           </div>
         </div>
+        </div>
+      <div class="row d-flex justify-content-center d-sm-block d-lg-none">
+        <div class="col-12">
+              <h3  class="my-3">
+                <b>Shop By Category</b>
+              </h3>
+            </div>
+        <div class="col-12">
+        <div class="owl-carousel owl-theme owl3">
+
+            <div class="item mx-2">
+            <a href="#" class="img_a">
+                  <div class="imgTitle">
+                  <img src="images/headphone.jpg" class="img-fluid" alt="">
+                    <p>Headphone</p>
+                  </div>
+                </a>
+            </div>
+            <div class="item mx-2">
+            <a href="#" class="img_a">
+                  <div class="imgTitle">
+                  <img src="images/Keyboard.jpg" class="img-fluid" alt="">
+              <p>Keyboard</p>
+                  </div>
+                </a>
+            </div>
+            <div class="item mx-2">
+            <a href="#" class="img_a">
+                  <div class="imgTitle">
+                  <img src="images/Mouse.jpg" class="img-fluid" alt="">
+              <p>Mouse</p>
+                  </div>
+                </a>
+            </div>
+            <div class="item mx-2">
+            <a href="#" class="img_a">
+                  <div class="imgTitle">
+                  <img src="images/Chair.jpg" class="img-fluid" alt="">
+              <p>Chair</p>
+                  </div>
+                </a>
+            </div>
+            <div class="item mx-2">
+            <a href="#" class="img_a">
+                  <div class="imgTitle">
+                  <img src="images/Laptop.png" class="img-fluid" alt="">
+              <p>Laptop</p>
+                  </div>
+                </a>
+            </div>
+            <div class="item mx-2">
+            <a href="#" class="img_a">
+                  <div class="imgTitle">
+                  <img src="images/Playstation3.jpg" class="img-fluid" alt="">
+              <p>Video Game</p>
+                  </div>
+                </a>
+            </div>
+            <div class="item mx-2">
+            <a href="#" class="img_a">
+                  <div class="imgTitle">
+                  <img src="images/Nintendo.png" class="img-fluid" alt="">
+              <p>Nintendo</p>
+                  </div>
+                </a>
+            </div>
+            <div class="item mx-2">
+            <a href="#" class="img_a">
+                  <div class="imgTitle">
+                  <img src="images/spiderman.jpg" class="img-fluid" alt="">
+              <p>Toys</p>
+                  </div>
+                </a>
+            </div>
+            <div class="item mx-2">
+            <a href="#" class="img_a">
+                  <div class="imgTitle">
+                  <img src="images/cloths.jpg" class="img-fluid" alt="">
+              <p>Fashion</p>
+                  </div>
+                </a>
+            </div>
+            <div class="item mx-2">
+            <a href="#" class="img_a">
+                  <div class="imgTitle">
+                  <img src="images/toys.jpg" class="img-fluid" alt="">
+              <p>Toys</p>
+                  </div>
+                </a>
+            </div>
+            <div class="item mx-2">
+            <a href="#" class="img_a">
+                  <div class="imgTitle">
+                  <img src="images/beauty.webp" class="img-fluid" alt="">
+              <p>Beauty</p>
+                  </div>
+                </a>
+            </div>
+            <div class="item mx-2">
+            <a href="#" class="img_a">
+                  <div class="imgTitle">
+                  <img src="images/headphone.jpg" class="img-fluid" alt="">
+              <p>Electronics</p>
+                  </div>
+                </a>
+            </div>
+
+            </div>
+        </div>
       </div>
-      </div>
+</div>
     </div>
   </section>
 
@@ -1535,13 +1627,13 @@ interval: 1500,
 
     $(".div_hover2").mouseover(function() {
     
-    $( ".animation2" ).fadeOut();
+    $( ".animation2" ).hide();
 
 
   });
   $(".div_hover2").mouseout(function() {
 
-    $( ".animation2" ).fadeIn();
+    $( ".animation2" ).show();
 
   });
 
@@ -1577,6 +1669,27 @@ interval: 1500,
 }) 
 
 $('.owl2').owlCarousel({
+    loop:true,
+    center:true,
+    margin:10,
+    nav:true,
+    dots: false,
+    autoplay:true,
+    autoplaySpeed:1000,
+    responsive:{
+        0:{
+            items:3
+        },
+        600:{
+            items:3
+        },
+        1000:{
+            items:4
+        }
+    }
+}) 
+
+$('.owl3').owlCarousel({
     loop:true,
     center:true,
     margin:10,

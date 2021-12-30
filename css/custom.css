@@ -1,4 +1,20 @@
-@media (max-width: 426px) {
+.mobile-side{
+  display: none ;
+}
+@media screen and (max-width:768px){
+  .desktop-side{
+      display: none !important;
+  }
+  .mobile-side{
+    display: block !important;
+  }
+}
+
+
+a{
+  text-decoration: none;
+}
+  @media (max-width: 426px) {
 .section1_full{
   display: none;
 }
@@ -101,7 +117,7 @@ body{
 .right_side_animation::before{
   position: absolute;
   content: "";
-  top: 72px;
+  top: 87px;
   right: -12px;
   background: linear-gradient(90deg, rgba(115,208,75,1) 0%, rgba(243,185,57,1) 100%);
   height: 50px;
@@ -123,6 +139,7 @@ body{
 }
 .playstore1{
   /* background-image: url("../images/869.webp"); */
+  border-radius: 10px;
   background-color:  #222222;
   background-size:cover ;
   margin-top: 15px;
@@ -182,7 +199,7 @@ body{
 .card_custom{
   border-radius: 10px;
   color: white;
-  background-color: black;
+  background-color: #222222;
   min-height: 90px;
 }
 .a_tag{
@@ -195,6 +212,14 @@ del{
   background-color: rgba(0, 0, 0, 1) !important;
   border-radius: 10px !important;
 }
+.section4 .card-back:hover{
+  border: 4px solid transparent;
+  border-image: linear-gradient(90deg, rgba(115,208,75,1) 0%, rgba(243,185,57,1) 100%);
+  font-size: 20px;
+  border-image-slice: 1;
+  background-color: rgba(0, 0, 0, 0);
+  color: white;
+} 
 .price{
   color: red;
   font-weight: bold;
@@ -295,7 +320,11 @@ del{
     background-color: rgba(0, 0, 0, 0);
     color: white;
     transition: 1.7s;
-    
+}
+@media screen and (max-width:768px){
+  .btn-primary span{
+    display: none;
+  }
 }
 .btn-primary:hover{
   background: linear-gradient(90deg, rgba(115,208,75,1) 0%, rgba(243,185,57,1) 100%);
@@ -401,6 +430,12 @@ background: #191919;
       top:35px !important;
     }
   }
+  .imgTitle p{
+    margin-top: 10px;
+    text-align: center;
+    color: white;
+    text-decoration: none;
+  }
   .mixedSlider .MS-content .item .imgTitle {
     position: relative;
   }
@@ -456,6 +491,7 @@ background: #191919;
       padding: 5px;
   }
   .img_a:hover{
+    border-radius: 5px;
     background: linear-gradient(to top right, #ffff00 15%, #008000 65%);
     transform: translateY(-7.5px);
     
