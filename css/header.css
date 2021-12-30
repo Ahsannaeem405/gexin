@@ -15,3 +15,8 @@ body::before {
   border-bottom: 2px solid black;
   content: "Error: Undefined mixin.\a    \2577 \a 22 \2502              @include font-applying ($fs: 11px, $ff: $font_text, $fw: normal, $fsty: normal);\d\a    \2502              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\a    \2575 \a   scss\\header.scss 22:13  root stylesheet";
 }
+.navbar .navbar-nav .nav-item .nav-link{
+  background-color: rgba(255, 255, 255, 1) !important;
+  color: white;
+}
+

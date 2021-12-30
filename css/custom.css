@@ -39,6 +39,14 @@
     display: block;
   } */
   }
+  .navbar .navbar-nav .nav-item .nav-link.lang-btn{
+    background-color: rgba(0, 0, 0, 0);
+    color: white;
+  }
+  /* .navbar .navbar-nav .nav-item .nav-link.lang-btn:hover{
+    background: linear-gradient(90deg, rgba(115,208,75,1) 0%, rgba(243,185,57,1) 100%);
+    color: white !important;
+  } */
 .card1:hover {
     box-shadow: 0 11px 11px 0 rgba(0, 0, 0,.16);
     transform: translateY(-5px);
@@ -238,6 +246,7 @@ del{
   }
   .storebg2{
     background-color: #191919;
+    height: 210px;
   }
  
   .card1{
@@ -348,6 +357,10 @@ background: 		#202020;
 }
 .section7{
 background: #191919;
+}
+.section7 img{
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
 }
 .section8{
   background-color: black;
@@ -837,7 +850,51 @@ background: #191919;
   .img_a:hover{
     background: linear-gradient(90deg, rgba(115,208,75,1) 0%, rgba(243,185,57,1) 100%);
     transform: translateY(-7.5px);
-    
+  }
+ .owl2 .img_a:hover{
+   background: none;
+ }
+ .owl2 .owl-item img{
+   width: 70%;
+   margin: auto;
+ }
+ .owl2{
+   display: none !important;
+ }
+ .owl-carousel{
+   position: relative;
+ }
+ .owl-theme .owl-nav{
+   position: absolute;
+   width: 100%;
+   top: 18%;
+   font-size: 30px;
+   color: white;
+ }
+ .owl-theme .owl-nav .owl-prev{
+float: left;
+ }
+ .owl-theme .owl-nav .owl-next{
+   float: right;
+}
+ @media screen and (max-width: 768px){
+  .owl2 {
+    display: block !important;
+  }
+  .games .mixedSlider{
+    display: none;
+  }
+  .games .mixedSlider2{
+    display: none;
+  }
+ }
+
+
+  .owl1 .owl-item .img-fluid{
+    width: 65% !important;
+  }
+  .footer_slider_img{
+    width: 75%;
   }
   @media (max-width: 992px) {
     .mixedSlider4 .MS-controls button {

@@ -15,7 +15,8 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 <link href='https://fonts.googleapis.com/css?family=Karla' rel='stylesheet' type='text/css'><link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css'>
-
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" integrity="sha512-tS3S5qG0BlhnQROyJXvNjeEM4UpMXHrQfTGmbQ1gKmelCxlSEBUaxhRBj/EFTzpbP4RVSrpEikbmdJobCvhE3g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css" integrity="sha512-sMXtMNL1zRzolHYKEujM2AqCLUR9F2C4/05cdbxjjLSRvMQIciEPCQZo++nk7go3BtSuK9kfa/s+a4f4i5pLkw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 <link rel="stylesheet" href="./style2.css">
 
 
@@ -439,7 +440,49 @@
             </div>
 
           </div>
+
+          <!-- owl -->
+          <div class="owl-carousel owl-theme owl2">
+
+            <div class="item mx-2">
+            <a href="#" class="img_a">
+                  <div class="imgTitle">
+                    <img src="images/game1.jpg" alt="" />
+                  </div>
+                </a>
+            </div>
+            <div class="item mx-2">
+            <a href="#" class="img_a">
+                  <div class="imgTitle">
+                  <img src="images/game2.png" alt="" />
+                  </div>
+                </a>
+            </div>
+            <div class="item mx-2">
+            <a href="#" class="img_a">
+                  <div class="imgTitle">
+                    <img src="images/game4.jpg" alt="" />
+                  </div>
+                </a>
+            </div>
+            <div class="item mx-2">
+            <a href="#" class="img_a">
+                  <div class="imgTitle">
+                    <img src="images/game5.jpg" alt="" />
+                  </div>
+                </a>
+            </div>
+            <div class="item mx-2">
+            <a href="#" class="img_a">
+                  <div class="imgTitle">
+                    <img src="images/game6.jpg" alt="" />
+                  </div>
+                </a>
+            </div>
+           
+          </div>
         </div>
+
       </div>
     </div>
   </section>
@@ -1074,6 +1117,46 @@
               <button class="MS-right"><i class="fa fa-angle-right" aria-hidden="true"></i></button>
             </div>
           </div>
+          <!-- owl -->
+          <div class="owl-carousel owl-theme owl2">
+
+            <div class="item mx-2">
+            <a href="#" class="img_a">
+                  <div class="imgTitle">
+                    <img src="images/game1.jpg" alt="" />
+                  </div>
+                </a>
+            </div>
+            <div class="item mx-2">
+            <a href="#" class="img_a">
+                  <div class="imgTitle">
+                  <img src="images/game2.png" alt="" />
+                  </div>
+                </a>
+            </div>
+            <div class="item mx-2">
+            <a href="#" class="img_a">
+                  <div class="imgTitle">
+                  <img src="images/game4.jpg" alt="" />
+                  </div>
+                </a>
+            </div>
+            <div class="item mx-2">
+            <a href="#" class="img_a">
+                  <div class="imgTitle">
+                    <img src="images/game5.jpg" alt="" />
+                  </div>
+                </a>
+            </div>
+            <div class="item mx-2">
+            <a href="#" class="img_a">
+                  <div class="imgTitle">
+                    <img src="images/game6.jpg" alt="" />
+                  </div>
+                </a>
+            </div>
+           
+          </div>
         </div>
 
       </div>
@@ -1162,7 +1245,8 @@
 
   <section class="section7">
     <div class="container py-5 pb-5">
-      <div class="col-lg-4 col-md-6 col-12 p-3 ">
+      <div class="row d-flex justify-content-center">
+      <div class="col-lg-4 col-md-8 col-12 p-3 ">
         <div class="row storebg text-white p-3 rounded">
           <div class="col-12">
             <h3 class="my-3">
@@ -1188,8 +1272,7 @@
         </div>
       </div>
 
-
-      <div class="col-lg-4 col-md-6 col-12 p-3 ">
+      <div class="col-lg-4 col-md-8 col-12 p-3 ">
         <div class="row storebg text-white p-3 rounded">
           <div class="col-12">
             <h3  class="my-3">
@@ -1215,7 +1298,7 @@
         </div>
       </div>
 
-      <div class="col-lg-4 col-md-6 col-12 p-3">
+      <div class="col-lg-4 col-md-8 col-12 p-3">
         <div class="row storebg text-white p-3 rounded">
           <div class="col-12">
             <h3  class="my-3">
@@ -1240,6 +1323,7 @@
           </div>
         </div>
       </div>
+      </div>
     </div>
   </section>
 
@@ -1247,7 +1331,7 @@
     <div class="container pt-5 pb-5">
       <h1 class="news">NEWS & PROMOTION</h1>
       <div class="row pt-4">
-        <div class="col-lg-4 col-md-6 col-12   new_letter">
+        <div class="col-lg-4 col-md-6 col-12   new_letter mb-5">
          
           <div class="row">
             <div class="col-12 p-0">
@@ -1260,7 +1344,7 @@
           </div>
 
         </div>
-        <div class="col-lg-4 col-md-6 col-12    new_letter">
+        <div class="col-lg-4 col-md-6 col-12    new_letter mb-5">
           <div class="row">
             <div class="col-12 p-0">
               <img src="images/battle.webp" class="img-fluid" alt="">
@@ -1272,7 +1356,7 @@
           </div>
 
         </div>
-        <div class="col-lg-4 col-md-6 col-12   new_letter">
+        <div class="col-lg-4 col-md-6 col-12   new_letter mb-5">
          
          <div class="row">
            <div class="col-12 p-0">
@@ -1293,47 +1377,78 @@
     <div class="container pt-5 pb-5 text-light text-center ">
       <h1>بوابات الدفع</h1><br>
       <p>إظغط علي طريقة الدفع المناسبة إليك لمشاهدة فيديو عن طريق الإستخدام</p>
-      <div class="row">
-      <div class="col-12 pt-3">
-          <div class="mixedSlider4 ">
-            <div class="MS-content">
-            <div class="item">
-              <img src="images/pic1.png" class="img-fluid" alt="">
-
-
-              </div>
-          
-
+      <div class="row d-flex justify-content-center">
+        <div class="col-10 pt-3">
+            <!-- <div class="mixedSlider4 ">
+              <div class="MS-content">
               <div class="item">
-              <img src="images/pic2.png" class="img-fluid" alt="">
+                <img src="images/pic1.png" class="img-fluid" alt="">
 
+
+                </div>
+            
+
+                <div class="item">
+                <img src="images/pic2.png" class="img-fluid" alt="">
+                </div>
+                <div class="item">
+                <img src="images/pic3.png" class="img-fluid" alt="">
+
+
+                </div>
+                <div class="item">
+                <img src="images/pic4.png" class="img-fluid" alt="">
+
+
+                </div>
+                <div class="item">
+                <img src="images/pic2.png" class="img-fluid" alt="">
+
+
+                </div>
+                
 
               </div>
-              <div class="item">
-              <img src="images/pic3.png" class="img-fluid" alt="">
-
-
+               <div class="MS-controls">
+                <button class="MS-left"><i class="fa fa-angle-left" aria-hidden="true"></i></button>
+                <button class="MS-right"><i class="fa fa-angle-right" aria-hidden="true"></i></button>
               </div>
-              <div class="item">
-              <img src="images/pic4.png" class="img-fluid" alt="">
-
-
-              </div>
-              <div class="item">
-              <img src="images/pic2.png" class="img-fluid" alt="">
-
-
-              </div>
-              
-
-            </div>
-            <!-- <div class="MS-controls">
-              <button class="MS-left"><i class="fa fa-angle-left" aria-hidden="true"></i></button>
-              <button class="MS-right"><i class="fa fa-angle-right" aria-hidden="true"></i></button>
             </div> -->
+
+
+            <!-- Owl -->
+            <div class="owl-carousel owl1 owl-theme">
+          <div class="item">
+            <img src="images/pic1.png" class="img-fluid" alt="">
+          </div>
+          <div class="item">
+          <img src="images/pic2.png" class="img-fluid" alt="">
+          </div>
+          <div class="item">
+          <img src="images/pic3.png" class="img-fluid" alt="">
+          </div>
+          <div class="item">
+          <img src="images/pic4.png" class="img-fluid" alt="">
+          </div>
+          <div class="item">
+            <img src="images/pic1.png" class="img-fluid" alt="">
+          </div>
+          <div class="item">
+          <img src="images/pic2.png" class="img-fluid" alt="">
+          </div>
+          <div class="item">
+          <img src="images/pic3.png" class="img-fluid" alt="">
+          </div>
+          <div class="item">
+          <img src="images/pic4.png" class="img-fluid" alt="">
+          </div>
+          
+        </div>
           </div>
         </div>
-      </div>
+
+    
+        
     </div>
   </section>
 
@@ -1430,15 +1545,58 @@ interval: 1500,
 
   });
 
-  
+
    
   </script>
 
 
  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script><script  src="./script2.js"></script>
 
+ <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+ <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js" integrity="sha512-bPs7Ae6pVvhOSiIcyUClR7/q2OAsRiovw4vAkX+zJbw3ShAeeqezq50RIIcIURq7Oa20rW2n2q+fyXBNcU9lrw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  <script>
+      // Owl
+  $('.owl1').owlCarousel({
+    loop:true,
+    margin:10,
+    nav:false,
+    dots: false,
+    autoplay:true,
+    autoplaySpeed:1000,
+    responsive:{
+        0:{
+            items:2
+        },
+        600:{
+            items:3
+        },
+        1000:{
+            items:4
+        }
+    }
+}) 
 
-
+$('.owl2').owlCarousel({
+    loop:true,
+    center:true,
+    margin:10,
+    nav:true,
+    dots: false,
+    autoplay:true,
+    autoplaySpeed:1000,
+    responsive:{
+        0:{
+            items:3
+        },
+        600:{
+            items:3
+        },
+        1000:{
+            items:4
+        }
+    }
+}) 
+    </script>
 </body>
 
 </html>
