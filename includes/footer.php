@@ -1,4 +1,4 @@
-<footer>
+<footer style="background-color:black">
     <div class="footer-wrap rtl">
         <div class="container footer-content">
             <div class="row">
@@ -11,7 +11,7 @@
                                         <div class="footer-links-box">
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header" id="headingOne">
-                                                <button class="accordion-button d-none d-md-none d-lg-block d-xl-block cursor-default" >
+                                                <button class="accordion-button d-none d-md-none d-lg-block d-xl-block cursor-default" style="background-color:black !important">
                                                 اكتشف الموقع
                                                 </button>
                                                 <button class="accordion-button media-vcenter d-block d-md-block d-lg-none d-xl-none" type="button" data-bs-toggle="collapse" data-bs-target="#explore" aria-expanded="true" aria-controls="collapseOne">
@@ -49,10 +49,10 @@
                                         <div class="footer-links-box">
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header" id="headingOne">
-                                                <button class="accordion-button d-none d-md-none d-lg-block d-xl-block cursor-default" >
+                                                <button class="accordion-button d-none d-md-none d-lg-block d-xl-block cursor-default" style="background-color:black !important">
                                                 الدعم 
                                                 </button>
-                                                <button class="accordion-button media-vcenter d-block d-md-block d-lg-none d-xl-none" type="button" data-bs-toggle="collapse" data-bs-target="#support" aria-expanded="true" aria-controls="collapseOne">
+                                                <button class="accordion-button media-vcenter d-block d-md-block d-lg-none d-xl-none" type="button" data-bs-toggle="collapse" data-bs-target="#support" aria-expanded="true" aria-controls="collapseOne" style="background-color:black !important">
                                                 الدعم 
                                                 </button>
                                                 </h2>
@@ -75,7 +75,7 @@
                                         <div class="footer-links-box">
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header" id="headingOne">
-                                                <button class="accordion-button d-none d-md-none d-lg-block d-xl-block cursor-default" >
+                                                <button class="accordion-button d-none d-md-none d-lg-block d-xl-block cursor-default" style="background-color:black !important">
                                                 الشركه 
                                                 </button>
                                                 <button class="accordion-button media-vcenter d-block d-md-block d-lg-none d-xl-none" type="button" data-bs-toggle="collapse" data-bs-target="#company" aria-expanded="true" aria-controls="collapseOne">

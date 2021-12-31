@@ -279,7 +279,7 @@
         <div class="col-4 mt-4">
           <div class="card card1">
             <div class="card-body">
-              <img src="images/card1.png" class="card-img-top" alt="...">
+              <img src="images/card11.webp" class="card-img-top" alt="...">
 
               <h3 class="card-text pt-2">سحب</h3>
             </div>
@@ -289,8 +289,31 @@
         <div class="col-4 mt-4">
           <div class="card card1">
             <div class="card-body">
-              <img src="images/card2.png" class="card-img-top" alt="...">
-
+              <img src="images/card12.webp" class="card-img-top" alt="...">
+              <h3 class="card-text pt-2">اكسسورات</h3>
+            </div>
+          </div>
+        </div>
+        <div class="col-4 mt-4">
+          <div class="card card1">
+            <div class="card-body">
+              <img src="images/card13.webp" class="card-img-top" alt="...">
+              <h3 class="card-text pt-2">اكسسورات</h3>
+            </div>
+          </div>
+        </div>
+        <div class="col-4 mt-4">
+          <div class="card card1">
+            <div class="card-body">
+              <img src="images/card14.webp" class="card-img-top" alt="...">
+              <h3 class="card-text pt-2">اكسسورات</h3>
+            </div>
+          </div>
+        </div>
+        <div class="col-4 mt-4">
+          <div class="card card1">
+            <div class="card-body">
+              <img src="images/card15.webp" class="card-img-top" alt="...">
               <h3 class="card-text pt-2">اكسسورات</h3>
             </div>
           </div>
@@ -299,7 +322,7 @@
         <div class="col-4 mt-4">
           <div class="card card1">
             <div class="card-body">
-              <img src="images/card3.png" class="card-img-top" alt="...">
+              <img src="images/card16.webp" class="card-img-top" alt="...">
 
               <h3 class="card-text pt-2">اضافه الرصيد</h3>
             </div>
@@ -309,7 +332,7 @@
         <div class="col-4 mt-4">
           <div class="card card1">
             <div class="card-body">
-              <img src="images/card4.png" class="card-img-top" alt="...">
+              <img src="images/card17.webp" class="card-img-top" alt="...">
 
               <h3 class="card-text pt-2">اعاده شحن الارصده</h3>
             </div>
@@ -320,7 +343,7 @@
         <div class="col-4 mt-4">
           <div class="card card1">
             <div class="card-body">
-              <img src="images/card5.png" class="card-img-top" alt="...">
+              <img src="images/card18.webp" class="card-img-top" alt="...">
 
               <h3 class="card-text pt-2">بطاقات الالعاب</h3>
             </div>
@@ -330,7 +353,7 @@
         <div class="col-4 mt-4">
           <div class="card card1">
             <div class="card-body">
-              <img src="images/card6.png" class="card-img-top" alt="...">
+              <img src="images/card19.webp" class="card-img-top" alt="...">
 
               <h3 class="card-text pt-2">توب اب</h3>
             </div>
@@ -384,7 +407,7 @@
     <div class="container">
       <div class="row pt-5">
         <div class="col-6 p-3">
-          <a href="#" class="btn btn-primary"><i class="fas fa-border-all"></i><span> &nbsp; عرض الكل</span></a>
+          <a href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ==" class="btn btn-primary"><i class="fas fa-border-all"></i><span> &nbsp; عرض الكل</span></a>
         </div>
         <div class="col-6 p-3 p-0">
           <h1 class="text">توب اب</h1>
@@ -395,7 +418,7 @@
             <div class="MS-content">
 
               <div class="item">
-                <a href="#" class="img_a">
+                <a href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ==" class="img_a">
                   <div class="imgTitle">
                     <img src="images/game11.webp" alt="" />
                   </div>
@@ -403,7 +426,7 @@
               </div>
 
               <div class="item">
-                <a href="#" class="img_a">
+                <a href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ==" class="img_a">
                   <div class="imgTitle">
                     <img src="images/game11.webp" alt="" />
                   </div>
@@ -411,16 +434,7 @@
               </div>
 
               <div class="item">
-                <a href="#" class="img_a">
-                  <div class="imgTitle">
-                    <img src="images/game11.webp" alt="" />
-                  </div>
-                </a>
-
-
-              </div>
-              <div class="item">
-                <a href="#" class="img_a">
+                <a href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ==" class="img_a">
                   <div class="imgTitle">
                     <img src="images/game11.webp" alt="" />
                   </div>
@@ -429,7 +443,16 @@
 
               </div>
               <div class="item">
-                <a href="#" class="img_a">
+                <a href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ==" class="img_a">
+                  <div class="imgTitle">
+                    <img src="images/game11.webp" alt="" />
+                  </div>
+                </a>
+
+
+              </div>
+              <div class="item">
+                <a href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ==" class="img_a">
                   <div class="imgTitle">
                     <img src="images/game11.webp" alt="" />
                   </div>
@@ -450,37 +473,37 @@
           <div class="owl-carousel owl-theme owl2">
 
             <div class="item mx-2">
-            <a href="#" class="img_a">
+            <a href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ==" class="img_a">
                   <div class="imgTitle">
                     <img src="images/game11.webp" alt="" />
                   </div>
                 </a>
             </div>
             <div class="item mx-2">
-            <a href="#" class="img_a">
+            <a href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ==" class="img_a">
                   <div class="imgTitle">
                   <img src="images/game11.webp" alt="" />
                   </div>
                 </a>
             </div>
             <div class="item mx-2">
-            <a href="#" class="img_a">
+            <a href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ==" class="img_a">
                   <div class="imgTitle">
                     <img src="images/game11.webp" alt="" />
                   </div>
                 </a>
             </div>
             <div class="item mx-2">
-            <a href="#" class="img_a">
+            <a href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ==" class="img_a">
                   <div class="imgTitle">
                     <img src="images/game11.webp" alt="" />
                   </div>
                 </a>
             </div>
             <div class="item mx-2">
-            <a href="#" class="img_a">
+            <a href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ==" class="img_a">
                   <div class="imgTitle">
-                    <img src="images/game6.jpg" alt="" />
+                    <img src="images/game11.webp" alt="" />
                   </div>
                 </a>
             </div>
@@ -496,158 +519,156 @@
     <div class="container pt-5 pb-5">
       <div class="row pt-5">
         <div class="col-6 p-3">
-          <a href="#" class="btn btn-primary"><i class="fas fa-border-all"></i><span> &nbsp; عرض الكل</span></a>
+          <a href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ==" class="btn btn-primary"><i class="fas fa-border-all"></i><span> &nbsp; عرض الكل</span></a>
         </div>
         <div class="col-6 p-3">
           <h1 class="text">بطاقات الالعاب</h1>
 
         </div>
         <div class="col-12 pt-3">
-        <div class="col-12 pt-3">
-          <div class="mixedSlider3 ">
-            <div class="MS-content">
-            <div class="item">
-            <a class="a_tag" href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ==">
-                <div class="col-12 mt-4">
-                  <div class="row bg-white card-back p-0">
-                    <div class="col-12 p-0">
-                      <div class="playstore p-3 card_custom">
-                        <a href="#">
-                        <div class="row p-0">
-                          <div class="col-3">
-                            <img class="img_card" src="images/playstore_image.webp" alt="">
-                          </div>
-                          <div class="col-9 pt-2  text-center">
-                            <h3>Google Play Gift Card (KR)</h3>
-                            <h5>Google Play Gift Card 200,000 WON KR</h5>
-                          </div>
-                        </div>
-                        </a>
-                       
-
-                      </div>
-                    </div>
-                    <div class="col-12 pt-3">
-                      <div class="row pb-3">
-                        <div class="col-2">
-                          <h3><del>$25</del></h3>
-                        </div>
-                        <div class="col-2">
-                          <h3 class="price">$20</h3>
-
-                        </div>
-                        <div class="col-8">
-                          <span class="discount">-3.0%</span>
-
-                        </div>
-                      </div>
-
-
-                    </div>
-
-                  </div>
-                </div>
-
-            </a>
-              </div>
-          
-
+          <div class="col-12 pt-3">
+            <div class="mixedSlider3 ">
+              <div class="MS-content">
               <div class="item">
-              <a class="a_tag" href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ==">
-                <div class="col-12 mt-4">
-
-                  <div class="row bg-white card-back p-0">
-                    <div class="col-12 p-0">
-                      <div class="playstation p-3 card_custom">
-                        <div class="row p-0">
-                          <div class="col-3">
-                            <img class="img_card" src="images/playstationpic.webp" alt="">
+                <a class="a_tag" href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ==">
+                  <div class="col-12 mt-5">
+                    <div class="row bg-white card-back rounded p-0">
+                      <div class="col-12 p-0">
+                        <div class="playstore p-3 card_custom">
+                          <a href="#">
+                          <div class="row p-0">
+                            <div class="col-3">
+                              <img class="img_card" src="images/playstore_image.webp" alt="">
+                            </div>
+                            <div class="col-9 pt-2  text-center">
+                              <h3>Google Play Gift Card (KR)</h3>
+                              <h5>Google Play Gift Card 200,000 WON KR</h5>
+                            </div>
                           </div>
-                          <div class="col-9 pt-2  text-center">
-                            <h3>PlayStation Network Card (TW)</h3>
-                            <h5>PS Plus 3 Months Membership TW</h5>
-                          </div>
-                        </div>
-
-                      </div>
-                    </div>
-                    <div class="col-12 pt-3">
-                      <div class="row pb-3">
-                        <div class="col-2">
-                          <h3><del>$25</del></h3>
-                        </div>
-                        <div class="col-2">
-                          <h3 class="price">$20</h3>
-
-                        </div>
-                        <div class="col-8">
-                          <span class="discount">-3.0%</span>
-
+                          </a>
                         </div>
                       </div>
+                      <div class="col-12 pt-3">
+                        <div class="row pb-3">
+                          <div class="col-2">
+                            <h3><del>$25</del></h3>
+                          </div>
+                          <div class="col-2">
+                            <h3 class="price">$20</h3>
 
+                          </div>
+                          <div class="col-8">
+                            <span class="discount">-3.0%</span>
+
+                          </div>
+                        </div>
+
+
+                      </div>
 
                     </div>
-
                   </div>
-
-
-                </div>
-              </a>
-              </div>
-              <div class="item">
-              <a class="a_tag" href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ==">
-                <div class="col-12 mt-4">
-
-                  <div class="row bg-white card-back p-0">
-                    <div class="col-12 p-0">
-                      <div class="warrior p-3 card_custom">
-                        <div class="row p-0">
-                          <div class="col-3">
-                            <img class="img_card" src="images/1156.webp" alt="">
-                          </div>
-                          <div class="col-9 pt-2  text-center">
-                            <h3>Conquerors: Golden Age (Global)</h3>
-                            <h5>Conquerors: Golden Age 2000 Dinar</h5>
-                          </div>
-                        </div>
-
-                      </div>
-                    </div>
-                    <div class="col-12 pt-3">
-                      <div class="row pb-3">
-                        <div class="col-2">
-                          <h3><del>$25</del></h3>
-                        </div>
-                        <div class="col-2">
-                          <h3 class="price">$20</h3>
-
-                        </div>
-                        <div class="col-8">
-                          <span class="discount">-3.0%</span>
-
-                        </div>
-                      </div>
-
-
-                    </div>
-
-                  </div>
-
-
-                </div>
 
               </a>
-              </div>
+                </div>
             
 
-            </div>
-            <div class="MS-controls">
-              <button class="MS-left"><i class="fa fa-angle-left" aria-hidden="true"></i></button>
-              <button class="MS-right"><i class="fa fa-angle-right" aria-hidden="true"></i></button>
+                <div class="item">
+                <a class="a_tag" href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ==">
+                  <div class="col-12 mt-5">
+
+                    <div class="row bg-white card-back p-0">
+                      <div class="col-12 p-0">
+                        <div class="playstation p-3 card_custom">
+                          <div class="row p-0">
+                            <div class="col-3">
+                              <img class="img_card" src="images/playstationpic.webp" alt="">
+                            </div>
+                            <div class="col-9 pt-2  text-center">
+                              <h3>PlayStation Network Card (TW)</h3>
+                              <h5>PS Plus 3 Months Membership TW</h5>
+                            </div>
+                          </div>
+
+                        </div>
+                      </div>
+                      <div class="col-12 pt-3">
+                        <div class="row pb-3">
+                          <div class="col-2">
+                            <h3><del>$25</del></h3>
+                          </div>
+                          <div class="col-2">
+                            <h3 class="price">$20</h3>
+
+                          </div>
+                          <div class="col-8">
+                            <span class="discount">-3.0%</span>
+
+                          </div>
+                        </div>
+
+
+                      </div>
+
+                    </div>
+
+
+                  </div>
+                </a>
+                </div>
+                <div class="item">
+                <a class="a_tag" href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ==">
+                  <div class="col-12 mt-5">
+
+                    <div class="row bg-white card-back p-0">
+                      <div class="col-12 p-0">
+                        <div class="warrior p-3 card_custom">
+                          <div class="row p-0">
+                            <div class="col-3">
+                              <img class="img_card" src="images/1156.webp" alt="">
+                            </div>
+                            <div class="col-9 pt-2  text-center">
+                              <h3>Conquerors: Golden Age (Global)</h3>
+                              <h5>Conquerors: Golden Age 2000 Dinar</h5>
+                            </div>
+                          </div>
+
+                        </div>
+                      </div>
+                      <div class="col-12 pt-3">
+                        <div class="row pb-3">
+                          <div class="col-2">
+                            <h3><del>$25</del></h3>
+                          </div>
+                          <div class="col-2">
+                            <h3 class="price">$20</h3>
+
+                          </div>
+                          <div class="col-8">
+                            <span class="discount">-3.0%</span>
+
+                          </div>
+                        </div>
+
+
+                      </div>
+
+                    </div>
+
+
+                  </div>
+
+                </a>
+                </div>
+              
+
+              </div>
+              <div class="MS-controls">
+                <button class="MS-left"><i class="fa fa-angle-left" aria-hidden="true"></i></button>
+                <button class="MS-right"><i class="fa fa-angle-right" aria-hidden="true"></i></button>
+              </div>
             </div>
           </div>
-        </div>
        
         </div>
       </div>
@@ -1036,7 +1057,7 @@
     <div class="container">
       <div class="row pt-5">
         <div class="col-6 p-3">
-          <a href="#" class="btn btn-primary"><i class="fas fa-border-all"></i><span> &nbsp; عرض الكل</span></a>
+          <a href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ==" class="btn btn-primary"><i class="fas fa-border-all"></i><span> &nbsp; عرض الكل</span></a>
         </div>
         <div class="col-6 p-3">
           <h1 class="text">توب يالايدي</h1>
@@ -1046,7 +1067,7 @@
           <div class="mixedSlider2 ms-PAUSE">
             <div class="MS-content">
               <div class="item">
-                <a href="#" class="img_a">
+                <a href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ==" class="img_a">
                   <div class="imgTitle">
                     <img src="images/game21.webp" alt="" />
                   </div>
@@ -1055,7 +1076,7 @@
 
               </div>
               <div class="item">
-                <a href="#" class="img_a">
+                <a href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ==" class="img_a">
                   <div class="imgTitle">
 
                     <img src="images/game22.webp" alt="" />
@@ -1066,7 +1087,7 @@
               </div>
 
               <div class="item">
-                <a href="#" class="img_a">
+                <a href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ==" class="img_a">
                   <div class="imgTitle">
                     <img src="images/game23.webp" alt="" />
                   </div>
@@ -1075,7 +1096,7 @@
 
               </div>
               <div class="item">
-                <a href="#" class="img_a">
+                <a href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ==" class="img_a">
                   <div class="imgTitle">
                     <img src="images/game24.webp" alt="" />
                   </div>
@@ -1084,7 +1105,7 @@
 
               </div>
               <div class="item">
-                <a href="#" class="img_a">
+                <a href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ==" class="img_a">
                   <div class="imgTitle">
                     <img src="images/game25.webp" alt="" />
                   </div>
@@ -1103,35 +1124,35 @@
           <div class="owl-carousel owl-theme owl2">
 
             <div class="item mx-2">
-            <a href="#" class="img_a">
+            <a href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ==" class="img_a">
                   <div class="imgTitle">
                     <img src="images/game21.webp" alt="" />
                   </div>
                 </a>
             </div>
             <div class="item mx-2">
-            <a href="#" class="img_a">
+            <a href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ==" class="img_a">
                   <div class="imgTitle">
                   <img src="images/game22.webp" alt="" />
                   </div>
                 </a>
             </div>
             <div class="item mx-2">
-            <a href="#" class="img_a">
+            <a href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ==" class="img_a">
                   <div class="imgTitle">
                   <img src="images/game23.webp" alt="" />
                   </div>
                 </a>
             </div>
             <div class="item mx-2">
-            <a href="#" class="img_a">
+            <a href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ==" class="img_a">
                   <div class="imgTitle">
                     <img src="images/game24.webp" alt="" />
                   </div>
                 </a>
             </div>
             <div class="item mx-2">
-            <a href="#" class="img_a">
+            <a href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ==" class="img_a">
                   <div class="imgTitle">
                     <img src="images/game25.webp" alt="" />
                   </div>
@@ -1227,7 +1248,7 @@
 
   <section class="section7">
     <div class="container py-5 pb-5">
-      <div class="row d-flex justify-content-center d-sm-none d-lg-block">
+      <div class="row d-flex justify-content-center d-none d-lg-block">
         <div class="col-lg-4 col-md-8 col-12 p-3 ">
           <div class="row storebg text-white p-3 rounded">
             <div class="col-12">
@@ -1308,109 +1329,110 @@
         </div>
       <div class="row d-flex justify-content-center d-sm-block d-lg-none">
         <div class="col-12">
-              <h3  class="my-3">
+              <h2  class="my-3 text-white">
                 <b>Shop By Category</b>
-              </h3>
+              </h2>
             </div>
         <div class="col-12">
         <div class="owl-carousel owl-theme owl3">
 
-            <div class="item mx-2">
-            <a href="#" class="img_a">
+            <div class="item">
+            <a href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ==" class="img_a">
                   <div class="imgTitle">
                   <img src="images/headphone.jpg" class="img-fluid" alt="">
                     <p>Headphone</p>
                   </div>
                 </a>
             </div>
-            <div class="item mx-2">
-            <a href="#" class="img_a">
+            <div class="item ">
+            <a href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ==" class="img_a">
                   <div class="imgTitle">
                   <img src="images/Keyboard.jpg" class="img-fluid" alt="">
               <p>Keyboard</p>
                   </div>
                 </a>
             </div>
-            <div class="item mx-2">
-            <a href="#" class="img_a">
+            <div class="item">
+            <a href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ==" class="img_a">
                   <div class="imgTitle">
                   <img src="images/Mouse.jpg" class="img-fluid" alt="">
               <p>Mouse</p>
                   </div>
                 </a>
             </div>
-            <div class="item mx-2">
-            <a href="#" class="img_a">
+            <div class="item">
+            <a href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ==" class="img_a">
                   <div class="imgTitle">
                   <img src="images/Chair.jpg" class="img-fluid" alt="">
               <p>Chair</p>
                   </div>
                 </a>
             </div>
-            <div class="item mx-2">
-            <a href="#" class="img_a">
+            <div class="item">
+            <a href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ==" class="img_a">
                   <div class="imgTitle">
                   <img src="images/Laptop.png" class="img-fluid" alt="">
               <p>Laptop</p>
                   </div>
                 </a>
             </div>
-            <div class="item mx-2">
-            <a href="#" class="img_a">
+            <div class="item">
+            <a href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ==" class="img_a">
                   <div class="imgTitle">
                   <img src="images/Playstation3.jpg" class="img-fluid" alt="">
               <p>Video Game</p>
                   </div>
                 </a>
             </div>
-            <div class="item mx-2">
-            <a href="#" class="img_a">
+            <div class="item">
+            <a href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ==" class="img_a">
                   <div class="imgTitle">
                   <img src="images/Nintendo.png" class="img-fluid" alt="">
               <p>Nintendo</p>
                   </div>
                 </a>
             </div>
-            <div class="item mx-2">
-            <a href="#" class="img_a">
+            <div class="item">
+            <a href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ==" class="img_a">
                   <div class="imgTitle">
                   <img src="images/spiderman.jpg" class="img-fluid" alt="">
               <p>Toys</p>
                   </div>
                 </a>
             </div>
-            <div class="item mx-2">
-            <a href="#" class="img_a">
+            <div class="item">
+              <a href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ==" class="img_a">
+                  <div class="imgTitle">
+                  <img src="images/headphone.jpg" class="img-fluid" alt="">
+                  <p>Electronics</p>
+                  </div>
+                </a>
+            </div>
+            <div class="item">
+            <a href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ==" class="img_a">
                   <div class="imgTitle">
                   <img src="images/cloths.jpg" class="img-fluid" alt="">
               <p>Fashion</p>
                   </div>
                 </a>
             </div>
-            <div class="item mx-2">
-            <a href="#" class="img_a">
+            <div class="item">
+            <a href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ==" class="img_a">
                   <div class="imgTitle">
                   <img src="images/toys.jpg" class="img-fluid" alt="">
               <p>Toys</p>
                   </div>
                 </a>
             </div>
-            <div class="item mx-2">
-            <a href="#" class="img_a">
+            <div class="item">
+            <a href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ==" class="img_a">
                   <div class="imgTitle">
                   <img src="images/beauty.webp" class="img-fluid" alt="">
               <p>Beauty</p>
                   </div>
                 </a>
             </div>
-            <div class="item mx-2">
-            <a href="#" class="img_a">
-                  <div class="imgTitle">
-                  <img src="images/headphone.jpg" class="img-fluid" alt="">
-              <p>Electronics</p>
-                  </div>
-                </a>
-            </div>
+            
 
             </div>
         </div>
@@ -1422,21 +1444,25 @@
   <section class="section8">
     <div class="container pt-5 pb-5">
       <h1 class="news">NEWS & PROMOTION</h1>
-      <div class="row pt-4">
+      <div class="row pt-4 d-none d-lg-block">
         <div class="col-lg-4 col-md-6 col-12   new_letter mb-5">
-         
+        <a href="#">
           <div class="row">
-            <div class="col-12 p-0">
-              <img src="images/redeem.webp" class="img-fluid" alt="">
+              <div class="col-12 p-0">
+                
+                <img src="images/redeem.webp" class="img-fluid" alt="">
+              </div>
+              <div class="col-12 p-4 text-white storebg2 div_news">
+                <h3>Redeem Your Free RM200 Gladax Voucher!</h3><br>
+                <p>SEAGM is collaborating with Gladax! Find out how to redeem your free voucher worth RM200! Offer is live from November 1 to December 31, 2021. </p>
+              </div>
             </div>
-            <div class="col-12 p-4 text-white storebg2 div_news">
-              <h3>Redeem Your Free RM200 Gladax Voucher!</h3><br>
-              <p>SEAGM is collaborating with Gladax! Find out how to redeem your free voucher worth RM200! Offer is live from November 1 to December 31, 2021. </p>
-            </div>
-          </div>
-
+        </a>
         </div>
+
+
         <div class="col-lg-4 col-md-6 col-12    new_letter mb-5">
+          <a href="#">
           <div class="row">
             <div class="col-12 p-0">
               <img src="images/battle.webp" class="img-fluid" alt="">
@@ -1445,11 +1471,13 @@
               <h3>Marvel Super War Battle Pass 17: Undisputed Champion Colossus</h3><br>
               <p>Check out the NEW Battle Pass 17 for Marvel Super War. Featuring Undisputed Champion Colossus and a classic boxing theme, this battle pass is sure to rock your socks off. </p>
             </div>
+            
           </div>
+          </a>
 
         </div>
         <div class="col-lg-4 col-md-6 col-12   new_letter mb-5">
-         
+         <a href="#">
          <div class="row">
            <div class="col-12 p-0">
              <img src="images/redeem.webp" class="img-fluid" alt="">
@@ -1458,14 +1486,57 @@
              <h3>Redeem Your Free RM200 Gladax Voucher!</h3><br>
              <p>SEAGM is collaborating with Gladax! Find out how to redeem your free voucher worth RM200! Offer is live from November 1 to December 31, 2021. </p>
            </div>
-         </div>
+            
+          </div>
+          </a>
 
        </div>
       </div>
+      <div class="row d-lg-none">
+        <div class="col-12">
+          <div class="owl-carousel owl4 owl-theme">
+            <div class="item">
+              <div class="row">
+                <div class="col-12 p-0">
+                  <img src="images/redeem.webp" class="img-fluid" alt="">
+                </div>
+                <div class="col-12 p-4 text-white storebg2 div_news">
+                <h3>Marvel Super War Battle Pass 17: Undisputed Champion Colossus</h3><br>
+              <p>Check out the NEW Battle Pass 17 for Marvel Super War. Featuring Undisputed Champion Colossus and a classic boxing theme, this battle pass is sure to rock your socks off. </p>
+             </div>
+              </div>
+            </div>
+            <div class="item">
+              <div class="row">
+                <div class="col-12 p-0">
+                  <img src="images/battle.webp" class="img-fluid" alt="">
+                </div>
+                <div class="col-12 p-4 text-white storebg2 div_news">
+                  <h3>Redeem Your Free RM200 Gladax Voucher!</h3><br>
+                  <p>SEAGM is collaborating with Gladax! Find out how to redeem your free voucher worth RM200! Offer is live from November 1 to December 31, 2021. </p>
+                </div>
+              </div>
+            </div>
+            <div class="item">
+              <div class="row">
+                <div class="col-12 p-0">
+                  <img src="images/redeem.webp" class="img-fluid" alt="">
+                </div>
+                <div class="col-12 p-4 text-white storebg2 div_news">
+                  <h3>Redeem Your Free RM200 Gladax Voucher!</h3><br>
+                  <p>SEAGM is collaborating with Gladax! Find out how to redeem your free voucher worth RM200! Offer is live from November 1 to December 31, 2021. </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div>
+        </div>
+        </div>
     </div>
 
   </section>
-  <section class="bg-dark">
+  <section class="" style="background-color:#202020">
     <div class="container pt-5 pb-5 text-light text-center ">
       <h1>بوابات الدفع</h1><br>
       <p>إظغط علي طريقة الدفع المناسبة إليك لمشاهدة فيديو عن طريق الإستخدام</p>
@@ -1653,7 +1724,7 @@ interval: 1500,
     margin:10,
     nav:false,
     dots: false,
-    autoplay:true,
+    autoplay:false,
     autoplaySpeed:1000,
     responsive:{
         0:{
@@ -1674,7 +1745,7 @@ $('.owl2').owlCarousel({
     margin:10,
     nav:true,
     dots: false,
-    autoplay:true,
+    autoplay:false,
     autoplaySpeed:1000,
     responsive:{
         0:{
@@ -1693,9 +1764,9 @@ $('.owl3').owlCarousel({
     loop:true,
     center:true,
     margin:10,
-    nav:true,
+    nav:false,
     dots: false,
-    autoplay:true,
+    autoplay:false,
     autoplaySpeed:1000,
     responsive:{
         0:{
@@ -1706,6 +1777,26 @@ $('.owl3').owlCarousel({
         },
         1000:{
             items:4
+        }
+    }
+}) 
+
+$('.owl4').owlCarousel({
+    loop:true,
+    margin:10,
+    nav:false,
+    dots: false,
+    autoplay:false,
+    autoplaySpeed:1000,
+    responsive:{
+        0:{
+            items:1
+        },
+        600:{
+            items:2
+        },
+        1000:{
+            items:3
         }
     }
 }) 
