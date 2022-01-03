@@ -14,7 +14,7 @@
                                                 <button class="accordion-button d-none d-md-none d-lg-block d-xl-block cursor-default" style="background-color:black !important">
                                                 اكتشف الموقع
                                                 </button>
-                                                <button class="accordion-button media-vcenter d-block d-md-block d-lg-none d-xl-none" type="button" data-bs-toggle="collapse" data-bs-target="#explore" aria-expanded="true" aria-controls="collapseOne">
+                                                <button class="accordion-button media-vcenter d-block d-md-block d-lg-none d-xl-none" type="button" data-bs-toggle="collapse" data-bs-target="#explore" aria-expanded="true" aria-controls="collapseOne" style="background-color:black !important">
                                                 اكتشف الموقع
                                                 </button>
                                                 </h2>
@@ -78,7 +78,7 @@
                                                 <button class="accordion-button d-none d-md-none d-lg-block d-xl-block cursor-default" style="background-color:black !important">
                                                 الشركه 
                                                 </button>
-                                                <button class="accordion-button media-vcenter d-block d-md-block d-lg-none d-xl-none" type="button" data-bs-toggle="collapse" data-bs-target="#company" aria-expanded="true" aria-controls="collapseOne">
+                                                <button class="accordion-button media-vcenter d-block d-md-block d-lg-none d-xl-none" type="button" data-bs-toggle="collapse" data-bs-target="#company" aria-expanded="true" aria-controls="collapseOne" style="background-color:black !important">
                                                 الشركه 
                                                 </button>
                                                 </h2>

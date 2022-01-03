@@ -133,6 +133,7 @@ body{
     display: none;
   }
 }
+
  .playstore1:hover
   .left_side_animation{
   display: none !important;
@@ -149,6 +150,11 @@ body{
 .playstore1:hover{
   margin-top: 5px;
   background: linear-gradient(90deg, rgba(115,208,75,1) 0%, rgba(243,185,57,1) 100%);
+  /* transform: scale(1.05); */
+}
+.playstore1:hover img{
+  transform: scale(1.1);
+  transition: 0.6s;
 }
 .new_letter{
   border-radius: 10px;
@@ -276,7 +282,7 @@ del{
   }
   .storebg2{
     background-color: #191919;
-    height: 210px;
+    height: 230px;
   }
  
   .card1{
@@ -284,7 +290,7 @@ del{
       border-radius: 5px;
       color:white;
       min-height: 130px;
-      background-color: black;
+      background-color: #191919;
   }
   .card-body{
       text-align: center;
@@ -313,6 +319,9 @@ del{
 .games{
     background-color: 	black;
 }
+.games .owl-carousel .owl-nav.disabled {
+  display: block;
+}
 .btn-name{
     color: white;
 }
@@ -329,6 +338,9 @@ del{
 @media screen and (max-width:768px){
   .btn-primary span{
     display: none;
+  }
+  .btn-primary{
+    border-width: 0px;
   }
 }
 .btn-primary:hover{
@@ -372,7 +384,7 @@ background: linear-gradient(to top right, #F3B939 15%, #73D04B 65%);
 
 }
 .section1{
-  background: 	#181818;
+  background: 	black;
 }
 .games1{
   background:	black !important;
@@ -501,9 +513,8 @@ background: #191919;
   }
   .img_a:hover{
     border-radius: 5px;
-    background: linear-gradient(to top right, #ffff00 15%, #008000 65%);
+    /* background: linear-gradient(to top right, #ffff00 15%, #008000 65%); */
     transform: translateY(-7.5px);
-    
   }
   @media (max-width: 992px) {
     .mixedSlider .MS-controls button {
@@ -642,7 +653,6 @@ background: #191919;
       padding: 5px;
   }
   .img_a:hover{
-    background: linear-gradient(to top right, #ffff00 15%, #008000 65%);
     transform: translateY(-7.5px);
     
   }
@@ -765,7 +775,6 @@ background: #191919;
       padding: 5px;
   }
   .img_a:hover{
-    background: linear-gradient(to top right, #ffff00 15%, #008000 65%);
     transform: translateY(-7.5px);
     
   }
@@ -889,40 +898,52 @@ background: #191919;
   .mixedSlider4 .MS-controls button:hover {
     color: gold;
   }
-  .img_a{
+  /* .img_a{
       padding: 5px;
+      background-color: red;
   }
   .img_a:hover{
     background: linear-gradient(90deg, rgba(115,208,75,1) 0%, rgba(243,185,57,1) 100%);
-    transform: translateY(-7.5px);
-  }
- .owl2 .img_a:hover{
-   background: none;
- }
- .owl2 .owl-item img{
-   width: 70%;
+  } */
+ .owl2 .owl-item .imgTitle{
+   width: 85%;
    margin: auto;
+   padding: 5px;
+   border-radius: 12px;
+   margin-top: 12px;
+   transition: 0.6s;
  }
- .owl2{
-   display: none !important;
- }
+ .owl2 .owl-item .imgTitle:hover{
+  margin-top: 2px;
+  background-image: linear-gradient(90deg, rgba(115,208,75,1) 0%, rgba(243,185,57,1) 100%) ;
+}
  .owl-carousel{
    position: relative;
  }
  .owl-theme .owl-nav{
    position: absolute;
    width: 100%;
-   top: 18%;
-   font-size: 30px;
+   top: 25%;
+   font-size: 50px;
    color: white;
+   z-index: -1;
  }
+
  .owl-theme .owl-nav .owl-prev{
 float: left;
+margin-left: -25px;
  }
  .owl-theme .owl-nav .owl-next{
    float: right;
+   margin-right: -25px;
 }
  @media screen and (max-width: 768px){
+  .owl-theme .owl-nav{
+    display: none;
+  }
+  .owl2 .owl-item .imgTitle{
+    width: 100%;
+  }
   .owl2 {
     display: block !important;
   }
