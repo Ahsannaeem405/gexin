@@ -206,11 +206,12 @@ body {
 .slider-container .slider-left {
   border-radius: 20px;
   color: #ffffff;
-  
+  border: 1px solid rgba(128, 98, 34, 0);
   padding: 7px 12px;
   background: rgba(243,185,57,1);
 }
 .slider-container .slider-right {
+  border: 1px solid rgba(128, 98, 34, 0);
   border-radius: 20px;
   color: #ffffff;
 
