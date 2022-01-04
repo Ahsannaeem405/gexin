@@ -64,3 +64,17 @@
     border-bottom:none!important
     }   
 }
+@media screen and (min-width:990px){
+    .mobile_menu1{
+        display: none;
+    }
+}
+.mobile_menu1{
+    position: absolute;
+    width: 50%;
+    height: 100vh;
+    color: white;
+    background-color: black;
+    left: 0;
+    top: 0;
+  }

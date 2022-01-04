@@ -6,11 +6,15 @@
         <a class="navbar-brand mbl-logo d-md-none d-lg-none d-xl-none d-block" href="#">
             <img src="images/logo-icon.png" alt="">
         </a>
+
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-            <i class="fa fa-bars" id="hamburger-icon" data-state="non-active" onclick={submenushow()}></i>
-            <!-- <span class="navbar-toggler-icon">
-      </span> -->
+            <i class="fa fa-bars" id="hamburger-icon" data-state="non-active" onclick={showmenu()}></i>
+             <span class="navbar-toggler-icon">
+                 
+      </span>
         </button>
+        
+        
         <div class="collapse navbar-collapse animate__animated animate__fadeInDown" id="navbarSupportedContent">
            <ul class="navbar-nav" id="navbarNav">
                 <li class="nav-item browse mb-2 pt-2 d-lg-none d-md-block d-sm-block">
@@ -151,18 +155,20 @@
             </div>
         </div>
     </div>
+    <!-- <div class="mobile_menu1">
+            <ul>
+                <li>
+                </li>
+            </ul>
+        </div> -->
 </nav>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <script>
 
 $(document).click(function() {
-
-
 // $('.modal').css('display', 'none');
 $("#navbarSupportedContent").hide();
-
-
 });
 $("#hamburger-icon").click(function(event) {
 // $( ".navbar-toggler" ).removeClass( "collapsed" );
@@ -181,14 +187,10 @@ event.stopPropagation();
 </script>
 
 <script>
-
-    
-    // function showOrHideDiv() {
-    //     var v = document.getElementById("showOrHide");
-    //     if (v.style.display === "none") {
-    //         v.style.display = "block";
-    //     } else {
-    //         v.style.display = "none";
-    //     }
-    // }
+  function showmenu(){
+        alert("hello");
+        var menu = document.getElementsByClassName("mobile_menu1").style;
+        console.log("menu", menu);
+       
+    }
 </script>

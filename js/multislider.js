@@ -175,7 +175,7 @@
         function autoSlide() {
             autoSlideInterval = setInterval(function(){
                 if (!$multislider.hasClass('ms-PAUSE')){
-                    animateSlideLeft();
+                    // animateSlideLeft();
                 }
             }, settings.interval);
         }

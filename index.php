@@ -142,7 +142,7 @@
                   <img class="img_card" src="images/card3.png" alt="">
                 </div>
                 <div class="col-9 pt-5  text-center">
-                  <h1>اضافه الرصيد</h1>
+                  <h1> اضافه الرصيد</h1>
                 </div>
               </div>
 
@@ -165,7 +165,7 @@
                   <img class="img_card" src="images/card4.png" alt="">
                 </div>
                 <div class="col-9 pt-5  text-center">
-                  <h1>اعاده شحن الارصده</h1>
+                  <h1> اعاده شحن الارصده </h1>
                 </div>
               </div>
 
@@ -186,7 +186,7 @@
                   <img class="img_card" src="images/card5.png" alt="">
                 </div>
                 <div class="col-9 pt-5  text-center">
-                  <h1> بطاقات الالعاب</h1>
+                  <h1> بطاقات الالعاب </h1>
                 </div>
               </div>
             </div>
@@ -203,7 +203,7 @@
                   <img class="img_card" src="images/card6.png" alt="">
                 </div>
                 <div class="col-9 pt-5  text-center">
-                  <h1> بطاقات الالعاب</h1>
+                  <h1> توب اب </h1>
                 </div>
               </div>
             </div>
@@ -214,10 +214,10 @@
             <div class="playstore1 p-2">
               <div class="row card_custom">
                 <div class="col-3 p-2">
-                  <img class="img_card" src="images/card3.png" alt="">
+                  <img class="img_card" src="images/card7.png" alt="">
                 </div>
                 <div class="col-9 pt-5  text-center">
-                  <h1> بطاقات الالعاب</h1>
+                  <h1> اجهزه الالعاب </h1>
                 </div>
               </div>
             </div>
@@ -228,10 +228,10 @@
             <div class="playstore1 p-2">
               <div class="row card_custom">
                 <div class="col-3 p-2">
-                  <img class="img_card" src="images/card1.png" alt="">
+                  <img class="img_card" src="images/card9.png" alt="">
                 </div>
                 <div class="col-9 pt-5  text-center">
-                  <h1> بطاقات الالعاب</h1>
+                  <h1> بطولات</h1>
                 </div>
               </div>
             </div>
@@ -246,10 +246,10 @@
             <div class="playstore1 playstore123 p-2 ">
               <div class="row card_custom">
                 <div class="col-3 p-2">
-                  <img class="img_card" src="images/card2.png" alt="">
+                  <img class="img_card" src="images/card8.png" alt="">
                 </div>
                 <div class="col-9 pt-5  text-center">
-                  <h1>توب اب</h1>
+                  <h1>بيع و شراء</h1>
                 </div>
               </div>
             </div>
@@ -270,7 +270,6 @@
           <div class="card card1">
             <div class="card-body">
               <img src="images/card1.png" class="card-img-top" alt="...">
-
               <h3 class="card-text pt-2">سحب</h3>
             </div>
           </div>
@@ -288,7 +287,7 @@
           <div class="card card1">
             <div class="card-body">
               <img src="images/card3.png" class="card-img-top" alt="...">
-              <h3 class="card-text pt-2">اكسسورات</h3>
+              <h3 class="card-text pt-2"> اضافه الرصيد</h3>
             </div>
           </div>
         </div>
@@ -296,7 +295,7 @@
           <div class="card card1">
             <div class="card-body">
               <img src="images/card4.png" class="card-img-top" alt="...">
-              <h3 class="card-text pt-2">اكسسورات</h3>
+              <h3 class="card-text pt-2"> اعاده شحن الارصده </h3>
             </div>
           </div>
         </div>
@@ -304,7 +303,7 @@
           <div class="card card1">
             <div class="card-body">
               <img src="images/card5.png" class="card-img-top" alt="...">
-              <h3 class="card-text pt-2">اكسسورات</h3>
+              <h3 class="card-text pt-2"> بطاقات الالعاب </h3>
             </div>
           </div>
         </div>
@@ -314,7 +313,7 @@
             <div class="card-body">
               <img src="images/card6.png" class="card-img-top" alt="...">
 
-              <h3 class="card-text pt-2">اضافه الرصيد</h3>
+              <h3 class="card-text pt-2"> توب اب </h3>
             </div>
           </div>
         </div>
@@ -322,9 +321,9 @@
         <div class="col-4 mt-4">
           <div class="card card1">
             <div class="card-body">
-              <img src="images/card3.png" class="card-img-top" alt="...">
+              <img src="images/card7.png" class="card-img-top" alt="...">
 
-              <h3 class="card-text pt-2">اعاده شحن الارصده</h3>
+              <h3 class="card-text pt-2"> اجهزه الالعاب </h3>
             </div>
           </div>
         </div>
@@ -333,9 +332,9 @@
         <div class="col-4 mt-4">
           <div class="card card1">
             <div class="card-body">
-              <img src="images/card1.png" class="card-img-top" alt="...">
+              <img src="images/card9.png" class="card-img-top" alt="...">
 
-              <h3 class="card-text pt-2">بطاقات الالعاب</h3>
+              <h3 class="card-text pt-2"> بطولات</h3>
             </div>
           </div>
         </div>
@@ -343,9 +342,9 @@
         <div class="col-4 mt-4">
           <div class="card card1">
             <div class="card-body">
-              <img src="images/card2.png" class="card-img-top" alt="...">
+              <img src="images/card8.png" class="card-img-top" alt="...">
 
-              <h3 class="card-text pt-2">توب اب</h3>
+              <h3 class="card-text pt-2">بيع و شراء </h3>
             </div>
           </div>
         </div>
@@ -395,15 +394,15 @@
 
   <section class="games games1 pt-5 pb-5">
     <div class="container">
-      <div class="row pt-5">
-        <div class="col-6 p-3">
+      <div class="row">
+        <div class="col-6 py-0 px-3">
           <a href="#" class="btn btn-primary"><i class="fas fa-border-all"></i><span> &nbsp; عرض الكل</span></a>
         </div>
-        <div class="col-6 p-3 p-0">
+        <div class="col-6 py-0 px-3">
           <h1 class="text">توب اب</h1>
 
         </div>
-        <div class="col-12 pt-3">
+        <div class="col-12">
           <!-- <div class="mixedSlider ms-PAUSE">
             <div class="MS-content">
 
@@ -513,20 +512,19 @@
 
   <section class="section4 small">
     <div class="container pt-5 pb-5">
-      <div class="row pt-5">
-        <div class="col-6 p-3">
+      <div class="row">
+        <div class="col-6 px-3">
           <a href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ==" class="btn btn-primary"><i class="fas fa-border-all"></i><span> &nbsp; عرض الكل</span></a>
         </div>
         <div class="col-6 p-3">
           <h1 class="text">بطاقات الالعاب</h1>
-
         </div>
-        <div class="col-12 pt-3">
-           <div class="col-12 pt-3">
+        <div class="col-12">
+           <div class="col-12">
            <div class="owl-carousel owl5 owl-theme">
               <div class="item">
               <a class="a_tag" href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ==">
-                  <div class="col-12 mt-5">
+                  <div class="col-12">
                     <div class="row bg-white card-back rounded p-0">
                       <div class="col-12 p-0">
                         <div class="playstore p-3 card_custom">
@@ -1174,15 +1172,15 @@
 
   <section class="games pt-5 pb-5">
     <div class="container">
-      <div class="row pt-5">
-        <div class="col-6 p-3">
+      <div class="row">
+        <div class="col-6 px-3">
           <a href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ==" class="btn btn-primary"><i class="fas fa-border-all"></i><span> &nbsp; عرض الكل</span></a>
         </div>
-        <div class="col-6 p-3">
+        <div class="col-6 px-3">
           <h1 class="text">توب يالايدي</h1>
 
         </div>
-        <div class="col-12 pt-3">
+        <div class="col-12">
           <!-- <div class="mixedSlider2 ms-PAUSE">
             <div class="MS-content">
               <div class="item">
@@ -1361,8 +1359,8 @@
         <div class="col-lg-4 col-md-8 col-12 p-3 ">
           <div class="row storebg text-white p-3 rounded">
             <div class="col-12">
-              <h3 class="my-3">
-                <b> Game Accessories</b>
+              <h3 class="mt-3 mb-5">
+                <a href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ==" class="btn btn-primary"><i class="fas fa-border-all"></i><span> &nbsp;اكسسورات الالعاب</span></a>
               </h3>
             </div>
             <div class="col-6 text-center">
@@ -1387,8 +1385,8 @@
         <div class="col-lg-4 col-md-8 col-12 p-3 ">
           <div class="row storebg text-white p-3 rounded">
             <div class="col-12">
-              <h3  class="my-3">
-                <b>Shop By Category</b>
+              <h3  class="mt-3 mb-5">
+                <a href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ==" class="btn btn-primary"><i class="fas fa-border-all"></i><span> &nbsp;تسوق حسب الفئة</span></a>
               </h3>
             </div>
             <div class="col-6 text-center">
@@ -1413,8 +1411,9 @@
         <div class="col-lg-4 col-md-8 col-12 p-3">
           <div class="row storebg text-white p-3 rounded">
             <div class="col-12">
-              <h3  class="my-3">
-                <b>Holidays Gift</b>
+              <h3  class="mt-3 mb-5">
+                <a href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ==" class="btn btn-primary"><i class="fas fa-border-all"></i><span> &nbsp;هدايا </span></a>
+
               </h3>
             </div>
             <div class="col-6 text-center">
@@ -1438,8 +1437,8 @@
         </div>
       <div class="row d-flex justify-content-center d-sm-block d-lg-none">
         <div class="col-12">
-              <h2  class="my-3 text-white">
-                <b>Shop By Category</b>
+              <h2  class=" text-white">
+              <a href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ==" class="btn btn-primary"><i class="fas fa-border-all"></i><span> &nbsp;تسوق حسب الفئة</span></a>
               </h2>
             </div>
         <div class="col-12">
@@ -1550,10 +1549,123 @@
     </div>
   </section>
 
+  <section class="games pt-5 pb-5">
+    <div class="container">
+      <div class="row">
+        <div class="col-6 px-3">
+          <a href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ==" class="btn btn-primary"><i class="fas fa-border-all"></i><span> &nbsp; عرض الكل</span></a>
+        </div>
+        <div class="col-6 px-3">
+          <h1 class="text">توب يالايدي</h1>
+
+        </div>
+        <div class="col-12">
+          <!-- <div class="mixedSlider2 ms-PAUSE">
+            <div class="MS-content">
+              <div class="item">
+                <a href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ==" class="img_a">
+                  <div class="imgTitle">
+                    <img src="images/game21.webp" alt="" />
+                  </div>
+                </a>
+
+
+              </div>
+              <div class="item">
+                <a href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ==" class="img_a">
+                  <div class="imgTitle">
+
+                    <img src="images/game22.webp" alt="" />
+                  </div>
+                </a>
+
+
+              </div>
+
+              <div class="item">
+                <a href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ==" class="img_a">
+                  <div class="imgTitle">
+                    <img src="images/game23.webp" alt="" />
+                  </div>
+                </a>
+
+
+              </div>
+              <div class="item">
+                <a href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ==" class="img_a">
+                  <div class="imgTitle">
+                    <img src="images/game24.webp" alt="" />
+                  </div>
+                </a>
+
+
+              </div>
+              <div class="item">
+                <a href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ==" class="img_a">
+                  <div class="imgTitle">
+                    <img src="images/game25.webp" alt="" />
+                  </div>
+                </a>
+
+
+              </div>
+
+            </div>
+            <div class="MS-controls">
+              <button class="MS-left"><i class="fa fa-angle-left" aria-hidden="true"></i></button>
+              <button class="MS-right"><i class="fa fa-angle-right" aria-hidden="true"></i></button>
+            </div>
+          </div> -->
+          <!-- owl -->
+          <div class="owl-carousel owl-theme owl2">
+
+            <div class="item mx-2">
+            <a href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ==" class="img_a">
+                  <div class="imgTitle">
+                    <img src="images/game21.webp" alt="" />
+                  </div>
+                </a>
+            </div>
+            <div class="item mx-2">
+            <a href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ==" class="img_a">
+                  <div class="imgTitle">
+                  <img src="images/game22.webp" alt="" />
+                  </div>
+                </a>
+            </div>
+            <div class="item mx-2">
+            <a href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ==" class="img_a">
+                  <div class="imgTitle">
+                  <img src="images/game23.webp" alt="" />
+                  </div>
+                </a>
+            </div>
+            <div class="item mx-2">
+            <a href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ==" class="img_a">
+                  <div class="imgTitle">
+                    <img src="images/game24.webp" alt="" />
+                  </div>
+                </a>
+            </div>
+            <div class="item mx-2">
+            <a href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ==" class="img_a">
+                  <div class="imgTitle">
+                    <img src="images/game25.webp" alt="" />
+                  </div>
+                </a>
+            </div>
+           
+          </div>
+        </div>
+
+      </div>
+  </section>
+
+
   <section class="section8">
     <div class="container pt-5 pb-5">
-      <h1 class="news">NEWS & PROMOTION</h1>
-      <!-- <div class="row pt-4 d-none d-lg-block">
+     <!--  <h1 class="news p-3">NEWS & PROMOTION</h1>
+      <div class="row pt-4 d-none d-lg-block">
         <div class="col-lg-4 col-md-6 col-12   new_letter mb-5">
         <a href="#">
           <div class="row">
@@ -1602,6 +1714,12 @@
        </div>
       </div> -->
       <div class="row">
+      <div class="col-6 px-3">
+          <a href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ==" class="btn btn-primary"><i class="fas fa-border-all"></i><span> &nbsp; عرض الكل</span></a>
+        </div>
+        <div class="col-6 p-3">
+          <h1 class="text">اخر الاخبار و العروض</h1>
+        </div>
         <div class="col-12">
           <div class="owl-carousel owl4 owl-theme">
             <div class="item">
@@ -1645,7 +1763,7 @@
     </div>
 
   </section>
-  <section class="" style="background-color:#202020">
+  <section class="" style="background-color:black">
     <div class="container pt-5 pb-5 text-light text-center ">
       <h1>بوابات الدفع</h1><br>
       <p>إظغط علي طريقة الدفع المناسبة إليك لمشاهدة فيديو عن طريق الإستخدام</p>
