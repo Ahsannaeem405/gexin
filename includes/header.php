@@ -24,10 +24,7 @@
                     </a>
                 </li>
                 <li class="nav-item nav-item-block new-head d-lg-none d-md-block d-sm-block mt-2"><a href="javascript:;" class="nav-link gm-header" target="_self"><i style="float:left;" class="fa fa-home float-start me-2 pt-1"></i> جيكسن </a></li>
-
- 
                 <li class="nav-item dropdown active" id="__BVID__16">
-
 
     <ul class="navbar-nav mb-2 mb-lg-0">
 
@@ -37,25 +34,23 @@
         
         <li class="nav-item dropdown new-head   helpDropBox">
           <a class="nav-link  gm-header dropdown-toggle" href="#" id="helpDrop" role="button" data-bs-toggle="helpDrop" aria-expanded="false">
-              
               <i class="fa fa-caret-left mt-1 d-lg-none d-md-block d-sm-block " style="float:left;" ></i> 
-
              الاقسام
           </a>
           <ul class="dropdown-menu" aria-labelledby="helpDrop">
-              <li><a class="dropdown-item gm-header" href="#">سحب</a></li>
-            <li><a class="dropdown-item gm-header" href="#">اكسسورات</a></li>
-            <li><a class="dropdown-item gm-header" href="#">اضافه الرصيد</a></li>
-            <li><a class="dropdown-item gm-header" href="#">اجهزه الالعاب</a></li>
-            <li><a class="dropdown-item gm-header" href="#">بيع و شراء</a></li>
-            <li><a class="dropdown-item gm-header" href="#">بطولات</a></li>
-            <li><a class="dropdown-item gm-header" href="#">اعاده شحن الارصده</a></li>
+              <li><a class="dropdown-item gm-header" href="#"> سحب  </a></li>
+            <li><a class="dropdown-item gm-header" href="#"> اكسسورات </a></li>
+            <li><a class="dropdown-item gm-header" href="#"> اضافه الرصيد </a></li>
+            <li><a class="dropdown-item gm-header" href="#"> اجهزه الالعاب </a></li>
+            <li><a class="dropdown-item gm-header" href="#"> بيع و شراء </a></li>
+            <li><a class="dropdown-item gm-header" href="#"> بطولات </a></li>
+            <li><a class="dropdown-item gm-header" href="#"> اعاده شحن الارصده </a></li>
             <li><a class="dropdown-item gm-header" href="product-catalog.php">بطاقات الالعاب</a></li>
             <li><a class="dropdown-item gm-header" href="product-catalog.php">توب اب</a></li>
           </ul>
         </li>
         <li class="nav-item ">
-          <a class="nav-link gm-header" aria-current="page" href="#">الرئيسية</a>
+          <a class="nav-link gm-header" aria-current="page" href="#"> الرئيسية </a>
         </li>
         
       </ul>
@@ -150,17 +145,57 @@
                             </div>
                         </ul>
                     </li>
-                    <!--  -->
+                
                 </ul>
             </div>
         </div>
     </div>
-    <!-- <div class="mobile_menu1">
-            <ul>
-                <li>
-                </li>
+    <div id="mobile_menu1">
+            <div class="float-right text-right" onclick={hidemenu()}>
+                <i class="fas fa-times fa-2x p-3"></i>
+            </div>
+            
+            <ul className="mt-5">
+            <li class="nav-item ">
+                <a class="nav-link  " aria-current="page" href="#">شحن الألعاب </a>
+            </li>
+            <li class="nav-item " >
+                <a class="nav-link d-flex justify-content-between "aria-current="page" onclick={subMenuShow()}><i class="fas fa-angle-left fa-2x"></i>الاقسام</a>
+                <div id="sub_menu">
+                    <div class="backto_menu" onclick={subMenuHide()}>
+                    <i class="fas fa-long-arrow-alt-left"></i> Main Menu
+                        </div>
+                        <ul>
+                            <li>
+                                <a class="nav-link  " aria-current="page" href="#">  سحب  </a>
+                            </li>
+                            <li>
+                                <a class="nav-link  " aria-current="page" href="#">  اكسسورات</a>
+                            </li>
+                            <li>
+                                <a class="nav-link  " aria-current="page" href="#"> اجهزه الالعاب</a>
+                            </li>
+                            <li>
+                                <a class="nav-link  " aria-current="page" href="#"> بيع و شراء </a>
+                            </li>
+                            <li>
+                                <a class="nav-link  " aria-current="page" href="#">بطولات</a>
+                            </li>
+                            <li>
+                                <a class="nav-link  " aria-current="page" href="#"> اعاده شحن الارصده </a>
+                            </li>
+                        </ul>
+                <div>
+            </li>
+            <li class="nav-item ">
+                <a class="nav-link  " aria-current="page" href="#">الرئيسية</a>
+            </li>
+            <li class="nav-item ">
+                <a class="nav-link  " aria-current="page" href="#">شحن الألعاب </a>
+            </li>
+                
             </ul>
-        </div> -->
+        </div>
 </nav>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
@@ -187,10 +222,21 @@ event.stopPropagation();
 </script>
 
 <script>
+    var menu = document.getElementById("mobile_menu1").style; 
   function showmenu(){
-        alert("hello");
-        var menu = document.getElementsByClassName("mobile_menu1").style;
-        console.log("menu", menu);
-       
+        menu.left= 0 + "px";
+    }
+    function hidemenu(){
+        
+        menu.left= -250 + "px";
+        console.log("sub menu", menu.left)
+    }
+    var subMenu = document.getElementById("sub_menu").style; 
+    function subMenuShow(){  
+        subMenu.left= 0 + "px";
+    }
+    function subMenuHide(){   
+        subMenu.left= -250 + "px";
+        console.log("sub menu", subMenu.left)
     }
 </script>
