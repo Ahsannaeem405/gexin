@@ -3,19 +3,18 @@
         <a class="navbar-brand d-md-block d-lg-block d-xl-block d-none" href="#">
             <img src="images/logo.png" alt="">
         </a>
-        <a class="navbar-brand mbl-logo d-md-none d-lg-none d-xl-none d-block" href="#">
+        <a class="navbar-brand mbl-logo d-md-none d-lg-none d-xl-none d-block position-absolute ml-1" href="#">
             <img src="images/logo-icon.png" alt="">
         </a>
 
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <i class="fa fa-bars" id="hamburger-icon" data-state="non-active" onclick={showmenu()}></i>
              <span class="navbar-toggler-icon">
-                 
       </span>
         </button>
         
         
-        <div class="collapse navbar-collapse animate__animated animate__fadeInDown" id="navbarSupportedContent">
+        <div class="collapse navbar-collapse animate__animated animate__fadeInDown p-0" id="navbarSupportedContent">
            <ul class="navbar-nav" id="navbarNav">
                 <li class="nav-item browse mb-2 pt-2 d-lg-none d-md-block d-sm-block">
                     <a href="javascript:;" class="nav-link" target="_self">
@@ -151,7 +150,7 @@
         </div>
     </div>
     <div id="mobile_menu1">
-            <div class="float-right text-right" onclick={hidemenu()}>
+            <div class="float-right text-left" onclick={hidemenu()}>
                 <i class="fas fa-times fa-2x p-3"></i>
             </div>
             
@@ -224,11 +223,11 @@ event.stopPropagation();
 <script>
     var menu = document.getElementById("mobile_menu1").style; 
   function showmenu(){
-        menu.left= 0 + "px";
+        menu.right= 0 + "px";
     }
     function hidemenu(){
         
-        menu.left= -250 + "px";
+        menu.right= -250 + "px";
         console.log("sub menu", menu.left)
     }
     var subMenu = document.getElementById("sub_menu").style; 
