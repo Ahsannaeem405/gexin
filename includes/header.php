@@ -29,28 +29,28 @@
     <ul class="navbar-nav mb-2 mb-lg-0">
 
         <li class="nav-item new-head ">
-          <a class="nav-link gm-header " aria-current="page" href="#">شحن الألعاب </a>
+          <a class="nav-link gm-header " aria-current="page"  href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ==">شحن الألعاب </a>
         </li>
         
         <li class="nav-item dropdown new-head   helpDropBox">
-          <a class="nav-link  gm-header dropdown-toggle" href="#" id="helpDrop" role="button" data-bs-toggle="helpDrop" aria-expanded="false">
+          <a class="nav-link  gm-header dropdown-toggle"  href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ==" id="helpDrop" role="button" data-bs-toggle="helpDrop" aria-expanded="false">
               <i class="fa fa-caret-left mt-1 d-lg-none d-md-block d-sm-block " style="float:left;" ></i> 
              الاقسام
           </a>
           <ul class="dropdown-menu" aria-labelledby="helpDrop">
-              <li><a class="dropdown-item gm-header" href="#"> سحب  </a></li>
-            <li><a class="dropdown-item gm-header" href="#"> اكسسورات </a></li>
-            <li><a class="dropdown-item gm-header" href="#"> اضافه الرصيد </a></li>
-            <li><a class="dropdown-item gm-header" href="#"> اجهزه الالعاب </a></li>
-            <li><a class="dropdown-item gm-header" href="#"> بيع و شراء </a></li>
-            <li><a class="dropdown-item gm-header" href="#"> بطولات </a></li>
-            <li><a class="dropdown-item gm-header" href="#"> اعاده شحن الارصده </a></li>
+              <li><a class="dropdown-item gm-header"  href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ=="> سحب  </a></li>
+            <li><a class="dropdown-item gm-header"  href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ=="> اكسسورات </a></li>
+            <li><a class="dropdown-item gm-header"  href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ=="> اضافه الرصيد </a></li>
+            <li><a class="dropdown-item gm-header"  href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ=="> اجهزه الالعاب </a></li>
+            <li><a class="dropdown-item gm-header"  href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ=="> بيع و شراء </a></li>
+            <li><a class="dropdown-item gm-header"  href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ=="> بطولات </a></li>
+            <li><a class="dropdown-item gm-header"  href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ=="> اعاده شحن الارصده </a></li>
             <li><a class="dropdown-item gm-header" href="product-catalog.php">بطاقات الالعاب</a></li>
             <li><a class="dropdown-item gm-header" href="product-catalog.php">توب اب</a></li>
           </ul>
         </li>
         <li class="nav-item ">
-          <a class="nav-link gm-header" aria-current="page" href="#"> الرئيسية </a>
+          <a class="nav-link gm-header" aria-current="page"  href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ=="> الرئيسية </a>
         </li>
         
       </ul>
@@ -67,7 +67,7 @@
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link search" href="#">
+                        <a class="nav-link search"  href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ==">
                             <i class="fa fa-search" onclick="showOrHideDiv()"></i>
                         </a>
                     </li>
@@ -105,13 +105,13 @@
                                                 <img src="images/zgold.png" alt="">
                                                 <span>0.00</span>
                                                 <div class="menu-curr-btn">
-                                                    <a href="" class="reloadBtn">أعاده تعبئه الرصيد</a>
+                                                    <a  href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ==" class="reloadBtn">أعاده تعبئه الرصيد</a>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="view-detail-btn">
-                                        <a href=""><i class="fa fa-caret-left"></i> عرض التفاصيل </a>
+                                        <a  href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ=="><i class="fa fa-caret-left"></i> عرض التفاصيل </a>
                                     </div>
                                 </div>
                                 <hr>
@@ -211,7 +211,7 @@
             
             <ul className="mt-5">
             <li class="nav-item ">
-                <a class="nav-link  " aria-current="page" href="#">شحن الألعاب </a>
+                <a class="nav-link  " aria-current="page"  href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ==">شحن الألعاب </a>
             </li>
             <li class="nav-item " >
                 <a class="nav-link d-flex justify-content-between "aria-current="page" onclick={subMenuShow()}><i class="fas fa-angle-left fa-2x"></i>الاقسام</a>
@@ -221,31 +221,31 @@
                         </div>
                         <ul>
                             <li>
-                                <a class="nav-link  " aria-current="page" href="#">  سحب  </a>
+                                <a class="nav-link  " aria-current="page"  href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ==">  سحب  </a>
                             </li>
                             <li>
-                                <a class="nav-link  " aria-current="page" href="#">  اكسسورات</a>
+                                <a class="nav-link  " aria-current="page" href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ==">  اكسسورات</a>
                             </li>
                             <li>
-                                <a class="nav-link  " aria-current="page" href="#"> اجهزه الالعاب</a>
+                                <a class="nav-link  " aria-current="page" href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ=="> اجهزه الالعاب</a>
                             </li>
                             <li>
-                                <a class="nav-link  " aria-current="page" href="#"> بيع و شراء </a>
+                                <a class="nav-link  " aria-current="page"  href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ=="> بيع و شراء </a>
                             </li>
                             <li>
-                                <a class="nav-link  " aria-current="page" href="#">بطولات</a>
+                                <a class="nav-link  " aria-current="page"  href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ==">بطولات</a>
                             </li>
                             <li>
-                                <a class="nav-link  " aria-current="page" href="#"> اعاده شحن الارصده </a>
+                                <a class="nav-link  " aria-current="page"  href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ=="> اعاده شحن الارصده </a>
                             </li>
                         </ul>
                 <div>
             </li>
             <li class="nav-item ">
-                <a class="nav-link  " aria-current="page" href="#">الرئيسية</a>
+                <a class="nav-link  " aria-current="page"  href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ==">الرئيسية</a>
             </li>
             <li class="nav-item ">
-                <a class="nav-link  " aria-current="page" href="#">شحن الألعاب </a>
+                <a class="nav-link  " aria-current="page"  href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ==">شحن الألعاب </a>
             </li>
                 
             </ul>
