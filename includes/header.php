@@ -1,3 +1,4 @@
+
 <nav class="navbar navbar-expand-lg sticky-top navbar-light rtl" style="direction:ltr">
     <div class="container">
         <a class="navbar-brand d-md-block d-lg-block d-xl-block d-none" href="#">
@@ -73,8 +74,8 @@
                     <li class="nav-item">
                         <a class="nav-link lang-btn"> Others Eng</a>
                     </li>
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="userDrop" role="button" data-bs-toggle="userDrop" aria-expanded="false">
+                    <li class="nav-item profile-submit">
+                        <a class="nav-link" onclick="showUserDetails()">
                             <div class="profile-btn">
                                 <div class="profile-pic">
                                     <i class="fa fa-user"></i>
@@ -82,7 +83,61 @@
                                 </div>
                             </div>
                         </a>
-                        <ul class="dropdown-menu dropdown-menu-right user-menu" aria-labelledby="userDrop">
+                        <div class="profile_detials text-white">
+                        <div class="user-menu-inner">
+                                <div class="user-info-box">
+                                    <div class="user-dp">
+                                        <img src="images/avatar.jpg" alt="">
+                                    </div>
+                                    <div class="user-info">
+                                        <div class="user-name">
+                                            <p>JohnDoe</p>
+                                        </div>
+                                        <div class="user-mail">
+                                            <p>Johndoe@eample.com</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="currency-info">
+                                    <div class="row content-center">
+                                        <div class="col-12">
+                                            <div class="currency-item">
+                                                <img src="images/zgold.png" alt="">
+                                                <span>0.00</span>
+                                                <div class="menu-curr-btn">
+                                                    <a href="" class="reloadBtn">أعاده تعبئه الرصيد</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="view-detail-btn">
+                                        <a href=""><i class="fa fa-caret-left"></i> عرض التفاصيل </a>
+                                    </div>
+                                </div>
+                                <hr>
+
+                                <div class="complete-prof">
+                                    <p class="text--sm">أكمل ملفك الشخصي الآن لتحصل على<br /> <img src="images/zsilver.png" alt=""> 500</p>
+                                    <div class="complete-prof-btn">
+                                        <a href="account.php">أكمل ملفك الشخصي </a>
+                                    </div>
+                                </div>
+                                <hr>
+                                <div class="profile-dropdown-section text-right">
+                                    <a href="inbox.php" class="nav-link-profile nav-link gtm-header-profile">صندوق الوارد</a>
+                                    <!-- <a href="" class="nav-link-profile">عرض ملخص الحساب</a> -->
+                                    <a href="transaction.php" class="nav-link-profile nav-link gtm-header-profile">المعاملات</a>
+                                    <a href="account.php" class="nav-link-profile nav-link gtm-header-profile">ملف تعريفي للمستخدم</a>
+                                    <a href="submit-ticket.php" class="nav-link-profile nav-link gtm-header-profile">قدم التذكرة</a>
+                                    <hr>
+                                    <a href="login.php" class="nav-link-profile nav-link gtm-header-profile">خروج</a>
+                                </div>
+                        </div>
+                        </div>
+
+
+
+                        <ul className="" hidden>
                             <div class="user-menu-inner">
                                 <div class="user-info-box">
                                     <div class="user-dp">
@@ -108,15 +163,15 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <!-- <div class="col-6">
-                        <div class="currency-item">
-                          <img src="images/zsilver.png" alt="">
-                          <span>0.000</span>
-                          <div class="menu-curr-btn">
-                            <a href="" class="redeemBtn">Redeem</a>
-                          </div>
-                        </div>
-                      </div> -->
+                                                            <!-- <div class="col-6">
+                                            <div class="currency-item">
+                                            <img src="images/zsilver.png" alt="">
+                                            <span>0.000</span>
+                                            <div class="menu-curr-btn">
+                                                <a href="" class="redeemBtn">Redeem</a>
+                                            </div>
+                                            </div>
+                                        </div> -->
                                     </div>
                                     <!-- <p class="disclaimer">500 منحة Gexin Silver تنتهي صلاحيتها في 30 تشرين الثاني (نوفمبر) 2022</p> -->
                                     <div class="view-detail-btn">
@@ -238,4 +293,19 @@ event.stopPropagation();
         subMenu.left= -250 + "px";
         console.log("sub menu", subMenu.left)
     }
+
+    var usermenu = document.querySelector(".profile_detials").style;
+    function showUserDetails(){
+        if(usermenu.display === "block"){
+            usermenu.display ="none";
+            console.log("hello1")
+        }
+        else{
+            usermenu.display = "block";
+            console.log("hello2")
+        }
+        
+    }
+    
+   
 </script>

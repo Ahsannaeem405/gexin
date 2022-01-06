@@ -326,6 +326,12 @@ textarea {
           font-size: 14px;
           padding: 4px 15px;
           cursor: pointer; }
+
+
+
+         
+
+
       .navbar .collapse .navbar-nav .nav-item .profile-btn {
         height: 100%;
         line-height: 100%;
@@ -337,6 +343,7 @@ textarea {
         border-radius: 50%;
         height: 28px;
         width: 28px; }
+        
         .navbar .collapse .navbar-nav .nav-item .profile-btn .profile-pic {
           background-color: #bbb;
           border-radius: 50%;
