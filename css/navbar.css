@@ -127,6 +127,8 @@
         right: -15px;
         width: 280px;
         display: none;
+        border: 1px solid #202020;
+        border-radius: 10px;
     }
     .profile_detials .user-info-box{
         display: flex;
