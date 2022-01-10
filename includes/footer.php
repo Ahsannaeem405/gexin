@@ -105,9 +105,11 @@
                                     <h5 style="font-size: 18px;"> من اجلك عالم العاب بكل ماتحتاجه من بطاقات و ارصده</h5>
                                     <div class="social-acc">
                                         <div class="social-acc-list">
-                                        <i class="fab fa-facebook-f"></i>
-                                            <i class="fab fa-instagram"></i>
-                                            <i class="fab fa-twitter"></i>
+                                            <a href="#"><i class="fab fa-facebook-f"></i></a>
+                                            <a href="#"><i class="fab fa-instagram"></i></a>
+                                            <a href="#"><i class="fab fa-twitter"></i></a>
+                                            
+                                         
                                         </div>
                                     </div>
                                 </div>

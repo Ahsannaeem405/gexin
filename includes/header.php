@@ -2,10 +2,10 @@
 
 <nav class="navbar navbar-expand-lg sticky-top navbar-light rtl" style="direction:ltr">
     <div class="container">
-        <a class="navbar-brand d-md-block d-lg-block d-xl-block d-none" href="#">
+        <a class="navbar-brand d-md-block d-lg-block d-xl-block d-none" href="index.php">
             <img src="images/logo.png" alt="">
         </a>
-        <a class="navbar-brand mbl-logo d-md-none d-lg-none d-xl-none d-block position-absolute ml-1" href="#">
+        <a class="navbar-brand mbl-logo d-md-none d-lg-none d-xl-none d-block position-absolute ml-1" href="index.php">
             <img src="images/logo-icon.png" alt="">
         </a>
         <button class="navbar-toggler mob-nav-icon" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" onclick={showmenu()}>
