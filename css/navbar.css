@@ -12,9 +12,6 @@
     line-height: 1.5 !important;
  
     }
-/* .hide{
-    display: none !important;
-} */
     #navbarSupportedContent{
         height: calc(100vh - 50px) !important;
         overflow-y: auto !important;
@@ -29,6 +26,13 @@
     } 
     #navbarNav{
         margin-bottom: 20px !important;
+    }
+    .mob-nav-icon{
+        position: absolute !important;
+        right: 15px  !important;
+        top: 20px !important;
+        font-size: 26px !important;
+        padding: 0;
     }
     .browse{
     background-color: #fff !important;
@@ -69,24 +73,29 @@
     padding-right: 15px;
 }
 }
+
 .navbar .collapse .navbar-nav .nav-item .nav-link{
     margin: 0 0 0 25px;
+}
+
+@media screen and (min-width: 991px){
+    #mobile_menu1{
+        display: none;
+    }
 }
 #mobile_menu1{
     position: absolute;
     width: 250px;
     height: 100vh;
     color: white;
-    background-color: black;
-    right: -250px;
-    top: 0;
-    overflow: hidden;
+    background-color: #212121;
+    right: -290px;
+    top: 55px;
     transition: 0.6s;
   }
   #mobile_menu1 ul{
       list-style-type: none;
       text-align: right;
-      margin-top: 2rem;
       padding: 0;
   }
   #mobile_menu1 ul li{
@@ -97,38 +106,61 @@
       text-decoration: none;
       color: white !important;
   }
+  .mob-menu-icons{
+        position: absolute;
+        left: -38px;
+        background-color: rgba(0,0,0,0.5);
+  }
+  .mob-menu{
+      position: relative;
+      width: 100%;
+      overflow: hidden;
+      height: 100vh;
+  }
+  .mob-menu .user-dp{
+    width: 40px;
+    height: 40px;
+    
+  }
+  .mob-menu .user-dp img{
+      height: 100%;
+      width: 100%;
+      border-radius: 50%;
+  }
   #sub_menu{
       position: absolute;
-      top: 0;
+      top: 55px;
       width: 250px;
-      height: 100vh;
-      background-color: black;
+      height: 100%;
+      background-color: #212121;
       left: -250px;
       transition: 0.4s;
   }
   #sub_menu .backto_menu{
       text-align: left;
-    margin-top: 20px;
     padding: 15px;
-    background-color: #202020;
+    background-color: #151515;
   }
 
 
   .profile-submit{
     position: relative ;
     }
-
+.profile-dropdown-section{
+    text-align: right;
+}
     .profile_detials{
         padding: 10px 15px;
         position: absolute;
-        background-color: black;
+        background-color: #222222;
         color: white;
         top: 40px;
-        right: -15px;
-        width: 280px;
+        right: -35px;
+        width: 300px;
         display: none;
-        border: 1px solid #202020;
-        border-radius: 10px;
+        transition: 0.3s;
+        border: 1px solid #383838;
+        border-radius: 5px;
     }
     .profile_detials .user-info-box{
         display: flex;
@@ -157,14 +189,12 @@
     .profile_detials .user-info .user-name p{
         margin-bottom: 0px;
         color: #ffffff;
-        font-size: 1.5rem;
         line-height: 20px;
         font-weight: 600;
     }
     .profile_detials .user-info .user-mail p{
         margin-bottom: 0px;
         color: #ffffff;
-        font-size: 1.5rem;
         line-height: 20px;
     }
     .profile_detials .user-menu-inner .currency-info {
@@ -244,5 +274,27 @@
         display: block; 
     }
     .profile_detials .user-menu-inner .gtm-header-profile {
-        font-size: 15px;
-        margin: 0px 0px; }
+        font-size: 15px !important;
+        margin: 0px 0px !important; 
+    }
+    .custom-dropdown{
+        position: absolute;
+        list-style-type: none;
+        background-color: black;
+        padding: 15px 0px;
+        border: 2px solid #212121;
+        top:38px;
+        left: 0;
+        display: none;
+        color: white;
+        border-radius: 5px;
+    }
+    .custom-dropdown a{
+        text-decoration: none;
+    }
+    .dropdown-item{
+        font-size: 18px;
+        padding: 5px 5px 0px 25px !important;
+        text-align: right;
+        color: white;
+    }

@@ -5,33 +5,27 @@
   <!-- Required meta tags -->
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <style>
-    .sub_menu{
-  display: none !important;
-}
-    </style>
-  <!-- Bootstrap CSS -->
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <!-- Bootstrap CSS -->
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script> 
 <link href='https://fonts.googleapis.com/css?family=Karla' rel='stylesheet' type='text/css'><link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css'>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" integrity="sha512-tS3S5qG0BlhnQROyJXvNjeEM4UpMXHrQfTGmbQ1gKmelCxlSEBUaxhRBj/EFTzpbP4RVSrpEikbmdJobCvhE3g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css" integrity="sha512-sMXtMNL1zRzolHYKEujM2AqCLUR9F2C4/05cdbxjjLSRvMQIciEPCQZo++nk7go3BtSuK9kfa/s+a4f4i5pLkw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-<link rel="stylesheet" href="./style2.css">
 
+<link rel="stylesheet" href="./style2.css">
+<?php include('includes/css.php') ?>
+    <link rel="stylesheet" href="css/slick-theme.css">
+    <link rel="stylesheet" href="css/slick.css">
+    <link rel="stylesheet" href="css/ribbon.css">
 
   <title>Gexin</title>
-  <?php include('includes/css.php') ?>
 </head>
 
 <body>
 
   <?php include('includes/header.php') ?>
-  
-
-
-
-  </style>
 
 <section class="section0">
   <div class="container p-0 ">
@@ -59,8 +53,6 @@
     <img class="slider-single-image" src="img.jpg" alt="4" />
    
   </div>
-
-
   <div class="slider-single">
     <img class="slider-single-image" src="img.jpg" alt="5" />
     
@@ -74,7 +66,7 @@
 </div>
   <div class="slider_nav">
   <a class="slider-left" href="javascript:void(0);"><i class="fas fa-chevron-left "></i></a>
-  <a class="slider-right" href="javascript:void(0);"><i class="fas fa-chevron-right "></i></a>
+  <a class="slider-right" href="javascript:void(0);" id="autoPlay"><i class="fas fa-chevron-right "></i></a>
 </div>
 
 </div>
@@ -112,9 +104,7 @@
 
         </div>
         <div class="col-lg-4 col-md-6 col-12 mt-4">
-
           <div class="row card-back p-0">
-
             <div class="playstore1 p-2">
               <div class="row card_custom">
                 <div class="col-3 p-2">
@@ -223,7 +213,7 @@
             </div>
           </div>
         </div>
-        <div class="col-lg-4 col-md-6 col-12 mt-5">
+        <div class="col-lg-4 col-md-6 col-12 mt-4">
           <div class="row  card-back p-0">
             <div class="playstore1 p-2">
               <div class="row card_custom">
@@ -239,7 +229,7 @@
         </div>
 
 
-        <div class="col-lg-4 col-md-6 col-12 mt-5">
+        <div class="col-lg-4 col-md-6 col-12 mt-4">
           <div class="row  card-back p-0">
           
             <div class="playstore1 playstore123 p-2 ">
@@ -1876,8 +1866,21 @@
         
     </div>
   </section>
+  <?php include('includes/search-bar.php') ?>
+    <?php include('includes/footer.php') ?>
+    <?php include('includes/js.php') ?>
+    <script src="js/slick.min.js"></script>
+    <script>
+        $(document).click(function() {
+            $(".dropdown-menu").hide();
+        });
 
-  <?php include('includes/footer.php') ?>
+        /* Clicks within the dropdown won't make
+           it past the dropdown itself */
+        $(".dropdown-menu").click(function(e) {
+            e.stopPropagation();
+        });
+    </script>
 
   <!-- Optional JavaScript -->
   <!-- jQuery first, then Popper.js, then Bootstrap JS -->
@@ -1887,6 +1890,16 @@
   <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
   <script src="js/multislider.js"></script>
   <script>
+
+    function playSlider(){
+      document.getElementById("autoPlay").click();
+      console.log("silder in runing")
+      // alert("The full URL of this page is:<br>" + window.location.href);
+    }
+    setInterval(() => {
+      playSlider();
+    }, 4000);
+
     $('.mixedSlider').multislider({
 
       duration: 750,

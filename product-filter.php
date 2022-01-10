@@ -6,6 +6,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Gexin</title>
+
+    <link rel="stylesheet" href="./style2.css">
     <?php include('includes/css.php') ?>
     <link rel="stylesheet" href="css/slick-theme.css">
     <link rel="stylesheet" href="css/slick.css">
@@ -16,7 +18,6 @@
 <body>
     <div class="theme-body">
         <?php include('includes/header.php') ?>
-
        
         <section class="rtl">
             <div class="row first-product-bg" >

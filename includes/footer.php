@@ -102,10 +102,10 @@
 
                             <div class="col-md-5 col-lg-4 col-xl-4 col-12">
                                 <div class="social-wrap">
-                                    <h5> من اجلك عالم العاب بكل ماتحتاجه من بطاقات و ارصده</h5>
+                                    <h5 style="font-size: 18px;"> من اجلك عالم العاب بكل ماتحتاجه من بطاقات و ارصده</h5>
                                     <div class="social-acc">
                                         <div class="social-acc-list">
-                                            <i class="fa fa-facebook"></i>
+                                        <i class="fab fa-facebook-f"></i>
                                             <i class="fab fa-instagram"></i>
                                             <i class="fab fa-twitter"></i>
                                         </div>
