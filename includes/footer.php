@@ -1,3 +1,4 @@
+
 <footer style="background-color: #202020">
     <div class="footer-wrap rtl">
         <div class="container footer-content">
@@ -11,15 +12,15 @@
                                         <div class="footer-links-box">
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header" id="headingOne">
-                                                <button class="accordion-button d-none d-md-none d-lg-block d-xl-block cursor-default" ">
+                                                <button class="accordion-button d-none d-md-none d-lg-block d-xl-block cursor-default" style="font-size:20px">
                                                 اكتشف الموقع
                                                 </button>
-                                                <button class="accordion-button media-vcenter d-block d-md-block d-lg-none d-xl-none" type="button" data-bs-toggle="collapse" data-bs-target="#explore" aria-expanded="true" aria-controls="collapseOne">
+                                                <button class="accordion-button media-vcenter d-block d-md-block d-lg-none d-xl-none" type="button" data-bs-toggle="collapse" data-bs-target="#explore" aria-expanded="true" aria-controls="collapseOne" style="font-size:20px">
                                                 اكتشف الموقع
                                                 </button>
                                                 </h2>
                                                 <div id="explore" class="accordion-collapse collapse show customHideShow" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
-                                                    <div class="accordion-body">
+                                                    <div class="accordion-body" style="font-size:18px">
                                                         <ul>
                                                             <li>
                                                                 <a href="product-filter.php">توب اب </a>
@@ -49,15 +50,15 @@
                                         <div class="footer-links-box">
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header" id="headingOne">
-                                                <button class="accordion-button d-none d-md-none d-lg-block d-xl-block cursor-default">
+                                                <button class="accordion-button d-none d-md-none d-lg-block d-xl-block cursor-default" style="font-size:22px">
                                                 الدعم 
                                                 </button>
-                                                <button class="accordion-button media-vcenter d-block d-md-block d-lg-none d-xl-none" type="button" data-bs-toggle="collapse" data-bs-target="#support" aria-expanded="true" aria-controls="collapseOne">
+                                                <button class="accordion-button media-vcenter d-block d-md-block d-lg-none d-xl-none" type="button" data-bs-toggle="collapse" data-bs-target="#support" aria-expanded="true" aria-controls="collapseOne" style="font-size:22px">
                                                 الدعم 
                                                 </button>
                                                 </h2>
                                                 <div id="support" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
-                                                    <div class="accordion-body">
+                                                    <div class="accordion-body" style="font-size:18px">
                                                         <ul>
                                                             <li>
                                                                 <a href="">املا تذكره</a>
@@ -75,15 +76,15 @@
                                         <div class="footer-links-box">
                                             <div class="accordion-item">
                                                 <h2 class="accordion-header" id="headingOne">
-                                                <button class="accordion-button d-none d-md-none d-lg-block d-xl-block cursor-default">
+                                                <button class="accordion-button d-none d-md-none d-lg-block d-xl-block cursor-default" style="font-size:22px">
                                                 الشركه 
                                                 </button>
-                                                <button class="accordion-button media-vcenter d-block d-md-block d-lg-none d-xl-none" type="button" data-bs-toggle="collapse" data-bs-target="#company" aria-expanded="true" aria-controls="collapseOne">
+                                                <button class="accordion-button media-vcenter d-block d-md-block d-lg-none d-xl-none" type="button" data-bs-toggle="collapse" data-bs-target="#company" aria-expanded="true" aria-controls="collapseOne" style="font-size:22px">
                                                 الشركه 
                                                 </button>
                                                 </h2>
                                                 <div id="company" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample" id="refine-search">
-                                                    <div class="accordion-body">
+                                                    <div class="accordion-body" style="font-size:18px">
                                                         <ul>
                                                             <li>
                                                                 <a href="">من نحن </a>
@@ -102,7 +103,7 @@
 
                             <div class="col-md-5 col-lg-4 col-xl-4 col-12">
                                 <div class="social-wrap">
-                                    <h5 style="font-size: 18px;"> من اجلك عالم العاب بكل ماتحتاجه من بطاقات و ارصده</h5>
+                                    <h5 style="font-size: 22px;"> من اجلك عالم العاب بكل ماتحتاجه من بطاقات و ارصده</h5>
                                     <div class="social-acc">
                                         <div class="social-acc-list">
                                             <a href="#"><i class="fab fa-facebook-f"></i></a>
@@ -148,3 +149,4 @@
         </div>
     </div>
 </footer>
+

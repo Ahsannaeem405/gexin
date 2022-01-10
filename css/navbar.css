@@ -155,8 +155,8 @@
         background-color: #222222;
         color: white;
         top: 40px;
-        right: -35px;
-        width: 300px;
+        right: -42px;
+        width: 320px;
         display: none;
         transition: 0.3s;
         border: 1px solid #383838;
@@ -208,11 +208,12 @@
     .profile_detials .currency-info .menu-curr-btn {
             width: 100%;
             margin-top: 12px; 
+            font-size: 16px;
         }
     .profile_detials .user-menu-inner .currency-info .menu-curr-btn a {
             width: 100%;
             height: 30px;
-            font-size: 14px;
+            font-size: 16px;
             line-height: 30px;
             display: inline-block;
             font-weight: 500;
@@ -243,7 +244,7 @@
             outline: none;
     }
     .profile_detials .user-menu-inner .complete-prof p {
-        font-size: 12px;
+        font-size: 15px;
         text-align: left;
         text-align: center; 
     
@@ -269,13 +270,16 @@
         height: 30px;
         line-height: 27px;
         border-radius: 3px;
-        font-size: 14px;
+        font-size: 16px;
         text-decoration: none;
         display: block; 
     }
     .profile_detials .user-menu-inner .gtm-header-profile {
         font-size: 15px !important;
         margin: 0px 0px !important; 
+    }
+    .profile_detials .profile-dropdown-section{
+
     }
     .custom-dropdown{
         position: absolute;

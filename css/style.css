@@ -1357,7 +1357,8 @@ footer .footer-term {
             color: #37b659; }
 
 .rtl.footer-wrap .footer-content .footer-links-wrap .footer-links-box .accordion-item .accordion-button {
-  text-align: right; }
+  text-align: right;
+ }
 
 @media screen and (min-width: 0px) and (max-width: 767px) {
   footer .footer-wrap .footer-content .footer-links-wrap .footer-links-box .accordion-item {
