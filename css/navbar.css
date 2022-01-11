@@ -84,6 +84,7 @@
     }
 }
 #mobile_menu1{
+    
     position: absolute;
     width: 250px;
     height: 100vh;
@@ -158,6 +159,7 @@
         display: none;
         transition: 0.3s;
         border: 1px solid #383838;
+        height: 460px;
         
     }
     .profile_detials .user-info-box{
@@ -192,6 +194,10 @@
         margin-bottom: 0px;
         color: #ffffff;
         line-height: 20px;
+    }
+    .profile_detials .user-menu-inner {
+        position: relative;
+        height: 100%;
     }
     .profile_detials .user-menu-inner .currency-info {
         margin-top: 10px;
@@ -267,6 +273,7 @@
         font-size: 16px;
         text-decoration: none;
         display: block; 
+        padding-top: 5px;
     }
     .profile_detials .user-menu-inner .gtm-header-profile {
         font-size: 15px !important;
