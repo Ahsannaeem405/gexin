@@ -84,10 +84,10 @@
                                 </div>
                             </div>
                         </a>
-                        <div class="profile_detials text-white">
+                        <div class="profile_detials text-white" style="padding: 10px 5px; width: 300px; border-radius: 5px">
                         <div class="user-menu-inner">
-                                <div class="user-info-box">
-                                    <div class="user-dp">
+                                <div class="user-info-box" style="padding: 10px ">
+                                    <div class="user-dp" style=" width: 50px; height: 50px;">
                                         <img src="images/avatar.jpg" alt="">
                                     </div>
                                     <div class="user-info">
@@ -115,22 +115,22 @@
                                         <a  href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ=="><i class="fa fa-caret-left"></i> عرض التفاصيل </a>
                                     </div>
                                 </div>
-                                <hr>
+                                <hr style="margin:5px 0px">
 
                                 <div class="complete-prof">
-                                    <p class="text--sm">أكمل ملفك الشخصي الآن لتحصل على<br /> <img src="images/zsilver.png" alt=""> 500</p>
+                                    <p class="text--sm" style="font-size: 15px; margin:0px">أكمل ملفك الشخصي الآن لتحصل على<br /> <img src="images/zsilver.png" alt="" style="height: 18px; width: 18px,"> 500</p>
                                     <div class="complete-prof-btn">
                                         <a  href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ==">أكمل ملفك الشخصي </a>
                                     </div>
                                 </div>
-                                <hr>
+                                <hr style="margin: 5px 0px">
                                 <div class="profile-dropdown-section text-right">
                                     <a  href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ==" class="nav-link-profile nav-link gtm-header-profile"  style="font-size:16px !important">صندوق الوارد</a>
                                     <!-- <a href="" class="nav-link-profile">عرض ملخص الحساب</a> -->
                                     <a  href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ==" class="nav-link-profile nav-link gtm-header-profile"  style="font-size:16px !important">المعاملات</a>
                                     <a  href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ==" class="nav-link-profile nav-link gtm-header-profile"  style="font-size:16px !important">ملف تعريفي للمستخدم</a>
                                     <a  href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ==" class="nav-link-profile nav-link gtm-header-profile"  style="font-size:16px !important">قدم التذكرة</a>
-                                    <hr>
+                                    <hr style="margin: 5px 0px">
                                     <a  href="http://test.gexingold.com/game/checkout/eyJpdiI6IjlOc1VoNHRLaVpxRUlORTUyY0d2XC9RPT0iLCJ2YWx1ZSI6IkIxeGlha1JZSnJnVjVZdUhIRTBBUlE9PSIsIm1hYyI6IjlkYjNmNWIyNTFmZWM5NmVhOWI4YzA3MGNkMmM3NzcyY2ZkOGU0ZWE5MGQ5YThhMzk0Zjg3OWZhMGU3YzAxNDIifQ==" class="nav-link-profile nav-link gtm-header-profile"  style="font-size:16px !important">خروج</a>
                                 </div>
                         </div>
@@ -179,7 +179,7 @@
                                         <a href=""><i class="fa fa-caret-left"></i> عرض التفاصيل </a>
                                     </div>
                                 </div>
-                                <hr>
+                                <hr style="margin:5px 0px">
 
                                 <div class="complete-prof">
                                     <p class="text--sm">أكمل ملفك الشخصي الآن لتحصل على<br /> <img src="images/zsilver.png" alt=""> 500</p>
@@ -187,7 +187,7 @@
                                         <a href="account.php">أكمل ملفك الشخصي </a>
                                     </div>
                                 </div>
-                                <hr>
+                                <hr style="margin:5px 0px">
                                 <div class="profile-dropdown-section">
                                     <a href="inbox.php" class="nav-link-profile nav-link gtm-header-profile">صندوق الوارد</a>
                                     <!-- <a href="" class="nav-link-profile">عرض ملخص الحساب</a> -->

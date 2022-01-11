@@ -150,30 +150,26 @@
     text-align: right;
 }
     .profile_detials{
-        padding: 10px 5px;
         position: absolute;
         background-color: #222222;
         color: white;
         top: 40px;
         right: -42px;
-        width: 300px;
         display: none;
         transition: 0.3s;
         border: 1px solid #383838;
-        border-radius: 5px;
+        
     }
     .profile_detials .user-info-box{
         display: flex;
         align-items: center;
         width: 100%;
         background-color: #343434;
-        padding: 10px;
         border-radius: 0.5rem;
         flex-direction: row-reverse;
     }
     .profile_detials .user-dp{
-        height: 50px;
-            width: 50px;
+        
             border-radius: 50%;
             overflow: hidden;
     }
@@ -244,14 +240,12 @@
             outline: none;
     }
     .profile_detials .user-menu-inner .complete-prof p {
-        font-size: 15px;
         text-align: left;
         text-align: center; 
     
     }
     .profile_detials .user-menu-inner .complete-prof p img {
-        height: 18px;
-        width: 18px;
+        
      }
      .profile_detials .user-menu-inner .complete-prof .complete-prof-btn {
         width: 100%;
@@ -277,9 +271,6 @@
     .profile_detials .user-menu-inner .gtm-header-profile {
         font-size: 15px !important;
         margin: 0px 0px !important; 
-    }
-    .profile_detials .profile-dropdown-section{
-
     }
     .custom-dropdown{
         position: absolute;
